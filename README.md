@@ -1,6 +1,7 @@
 # 🌱 Calyx
 
 ### Overview
+
 My project proposal is an application that aids home gardeners in planning their crop rotations. This app will use geographical and crop information to help home gardeners while also promoting the planting of more local varieties of vegetables. The majority of the project will consist of database management, data visualization, and building the plant recommendation system.
 
 ### Key Features
@@ -29,6 +30,13 @@ My project proposal is an application that aids home gardeners in planning their
 	- A calendar that shows weather predictions for the next 7 days.
 		  Warns of weather events that could pose harm
 
+## Stack
+  - JavaFX
+  - Spring Boot
+  - MySql Database
+  - OpenWeatherMap API
+  - USDA API
+
 ## To-Do List
   Week 1:  Research, Planning & Backend Setup
   - [ ] Research & Data Collection
@@ -52,12 +60,25 @@ My project proposal is an application that aids home gardeners in planning their
   - [ ] Deployment
   - [ ] Final Documentation
 
-## Final Deliverables 🎯
+## Final Deliverables
   - Functional Gardening App
   - Database & Backend API
   - JavaFX UI with Garden Planner & Recommendations
   - Data Visualizations (Soil Health, Crop Rotation)
   - Weather & Pest Alerts
   - Deployment & Documentation
-  
+
+## Installation & Setup
+  - Repository cloning
+  - Executable Download (Coming Soon)
+
+## Data Sources
+  - [USDA Plant Hardiness Zone Map](https://planthardiness.ars.usda.gov/PHZMWeb/)
+  - [USDA Plant Database](https://plants.sc.egov.usda.gov/Home.aspx)
+  - [USDA Soil Health](https://www.nrcs.usda.gov/wps/portal/nrcs/main/soils/health/)
+  - [USDA Pest Information](https://www.aphis.usda.gov/aphis/resources/pests-diseases/)
+  - [NOAA Weather API](https://www.weather.gov/documentation/services-web-api)
+
 ## ⚠️ Usage Disclaimer
+
+This project is not intended for commercial use. Please use this application responsibly and consult with local agricultural experts for accurate information.
