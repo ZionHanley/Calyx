@@ -1,4 +1,4 @@
-# Calyx
+# 🌱 Calyx
 
 ### Overview
 My project proposal is an application that aids home gardeners in planning their crop rotations. This app will use geographical and crop information to help home gardeners while also promoting the planting of more local varieties of vegetables. The majority of the project will consist of database management, data visualization, and building the plant recommendation system.
@@ -30,25 +30,25 @@ My project proposal is an application that aids home gardeners in planning their
 		  Warns of weather events that could pose harm
 
 ## To-Do List
-  Week 1:  Research, Planning & Backend Setup [ ]
+  Week 1:  Research, Planning & Backend Setup
   - [ ] Research & Data Collection
   - [ ] Backend Architecture
   - [ ] Python Data Processing Setup
 
-  Week 2: Core Backend Features & Basic UI [ ]
+  Week 2: Core Backend Features & Basic UI
   - [ ] Backend Features
   - [ ] Frontend (JavaFX) Setup
 
-  Week 3: Data Visualization & Calendar Integration [ ]
+  Week 3: Data Visualization & Calendar Integration
   - [ ] Enhancing Backend Functionality
   - [ ] Frontend UI Components
   - [ ] Alert System
   
-  Week 4: Testing, Debugging & Finalizing Features [ ]
+  Week 4: Testing, Debugging & Finalizing Features
   - [ ] Testing & Debugging
   - [ ] Final UI Improvements
 
-  Week 5: Deployment, Documentation & Presentation [ ]
+  Week 5: Deployment, Documentation & Presentation
   - [ ] Deployment
   - [ ] Final Documentation
 
