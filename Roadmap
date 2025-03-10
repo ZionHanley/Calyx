@@ -1,0 +1,85 @@
+🌱 5-Week Roadmap: Gardening Application
+
+
+Week 1: Research, Planning & Backend Setup
+
+	Research & Data Collection
+		Identify crop & pest databases (USDA, OpenWeatherMap, university extensions).
+		Find soil health data sources (federal databases or user-submitted results).
+		Define core feature set to prioritize for a minimum viable product (MVP).
+
+	Backend Architecture
+		Set up Spring Boot backend (REST API structure).
+		Define database schema (PostgreSQL/MongoDB).
+		Develop endpoints for:
+			/crops (GET, POST, UPDATE)
+			/pests (GET, POST)
+			/soil (GET, POST, UPDATE)
+			/alerts (GET, POST)
+	Python Data Processing Setup
+		Use Flask/FastAPI for soil test analysis & crop recommendations.
+		Start processing crop and pest data for storage.
+
+
+Week 2: Core Backend Features & Basic UI
+
+	Backend Features
+		Implement Crop Recommendation System (soil, region, season-based).
+		Integrate Pest Warning System (fetch pest activity by region).
+		Develop Soil Health Tracking (store & update user soil tests).
+
+	Frontend (JavaFX) Setup
+		Create basic UI layout (profile selection, home screen, crop selection).
+		Implement Garden Planner UI (basic layout for mapping garden space).
+		Build Crop Selection Interface (searchable list of crops).
+	
+	
+Week 3: Data Visualization & Calendar Integration
+
+	Enhancing Backend Functionality
+		Fetch weather data (OpenWeatherMap API) for 7-day forecast.
+		Implement Dynamic Pest Updates (new pest alerts as data updates).
+
+	Frontend UI Components
+		Create Soil Health Bar Chart (visualizing soil test results).
+		Generate Gantt Chart for crop rotation.
+		Implement export feature (PDF/PNG/CSV for charts & recommendations).
+
+	Alert System
+		Implement notifications for weather events & pest threats.
+
+
+Week 4: Testing, Debugging & Finalizing Features
+
+	Testing & Debugging
+		Unit test database queries & API endpoints.
+		Ensure crop recommendations & pest alerts are accurate.
+		Verify weather API integration & soil health calculations.
+
+	Final UI Improvements
+		Improve garden planner usability.
+		Test chart accuracy & export functionality.
+		Implement mascot animation (if time allows).
+
+
+Week 5: Deployment, Documentation & Presentation
+
+	Deployment
+		Deploy backend (Spring Boot) on cloud (Heroku/AWS/Railway).
+		Host database (PostgreSQL/MongoDB) on a cloud service.
+		Package frontend (JavaFX) as a desktop application.
+
+	Final Documentation
+		Write setup guide & API documentation.
+		Create final presentation & demo video.
+		Upload code to GitHub with an open-source license.
+
+
+🎯 Final Deliverables
+
+    Functional Gardening App
+    Database & Backend API
+    JavaFX UI with Garden Planner & Recommendations
+    Data Visualizations (Soil Health, Crop Rotation)
+    Weather & Pest Alerts
+    Deployment & Documentation
