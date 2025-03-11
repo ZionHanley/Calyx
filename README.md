@@ -1,8 +1,15 @@
 # 🌱 Calyx
 
+
 ### Overview
 
-My project proposal is an application that aids home gardeners in planning their crop rotations. This app will use geographical and crop information to help home gardeners while also promoting the planting of more local varieties of vegetables. The majority of the project will consist of database management, data visualization, and building the plant recommendation system.
+Calyx is an open source application that is ment to aid home gardeners when planning crop rotations. This application  uses geographical and crop information to help home gardeners while also promoting the planting of more local varieties.
+
+
+### Problem Statement
+
+Calyx is a gardening application that is designed to promote the planting of local crops. The planting of non native crops can have a negative impact on the local ecosystems. This application will help home gardeners to plan their crops in a way that is beneficial to the local environment.
+
 
 ### Key Features
   - Crop recommendation system
@@ -30,12 +37,14 @@ My project proposal is an application that aids home gardeners in planning their
 	- A calendar that shows weather predictions for the next 7 days.
 		  Warns of weather events that could pose harm
 
+
 ## Stack
   - JavaFX
   - Spring Boot
   - MySql Database
   - OpenWeatherMap API
   - USDA API
+
 
 ## To-Do List
   Week 1:  Research, Planning & Backend Setup
@@ -60,6 +69,7 @@ My project proposal is an application that aids home gardeners in planning their
   - [ ] Deployment
   - [ ] Final Documentation
 
+
 ## Final Deliverables
   - Functional Gardening App
   - Database & Backend API
@@ -68,9 +78,11 @@ My project proposal is an application that aids home gardeners in planning their
   - Weather & Pest Alerts
   - Deployment & Documentation
 
+
 ## Installation & Setup
   - Repository cloning
   - Executable Download (Coming Soon)
+
 
 ## Data Sources
   - [USDA Plant Hardiness Zone Map](https://planthardiness.ars.usda.gov/PHZMWeb/)
@@ -79,6 +91,7 @@ My project proposal is an application that aids home gardeners in planning their
   - [USDA Pest Information](https://www.aphis.usda.gov/aphis/resources/pests-diseases/)
   - [NOAA Weather API](https://www.weather.gov/documentation/services-web-api)
 
+
 ## ⚠️ Usage Disclaimer
 
-This project is not intended for commercial use. Please use this application responsibly and consult with local agricultural experts for accurate information.
+Calyx is not intended for commercial use. Please use this application responsibly and consult with your local agricultural experts for more accurate information and the best practices.
