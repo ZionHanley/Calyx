@@ -12,6 +12,7 @@ Calyx is a gardening application that is designed to promote the planting of loc
 
 
 ### Key Features
+
   - Crop recommendation system
 		  A database with crop requirements the app will use the data of recommended planting time, germination time, and regionality to pick the best crops.
 		    Recommends a companion plant that will help with soil health
