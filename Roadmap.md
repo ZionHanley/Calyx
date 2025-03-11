@@ -1,7 +1,7 @@
-🌱 5-Week Roadmap: Gardening Application
+# 🌱 5-Week Roadmap: Gardening Application
 
 
-Week 1: Research, Planning & Backend Setup
+## Week 1: Research, Planning & Backend Setup
 
 	Research & Data Collection
 		Identify crop & pest databases (USDA, OpenWeatherMap, university extensions).
@@ -21,7 +21,7 @@ Week 1: Research, Planning & Backend Setup
 		Start processing crop and pest data for storage.
 
 
-Week 2: Core Backend Features & Basic UI
+## Week 2: Core Backend Features & Basic UI
 
 	Backend Features
 		Implement Crop Recommendation System (soil, region, season-based).
@@ -34,7 +34,7 @@ Week 2: Core Backend Features & Basic UI
 		Build Crop Selection Interface (searchable list of crops).
 	
 	
-Week 3: Data Visualization & Calendar Integration
+## Week 3: Data Visualization & Calendar Integration
 
 	Enhancing Backend Functionality
 		Fetch weather data (OpenWeatherMap API) for 7-day forecast.
@@ -49,7 +49,7 @@ Week 3: Data Visualization & Calendar Integration
 		Implement notifications for weather events & pest threats.
 
 
-Week 4: Testing, Debugging & Finalizing Features
+## Week 4: Testing, Debugging & Finalizing Features
 
 	Testing & Debugging
 		Unit test database queries & API endpoints.
@@ -62,7 +62,7 @@ Week 4: Testing, Debugging & Finalizing Features
 		Implement mascot animation (if time allows).
 
 
-Week 5: Deployment, Documentation & Presentation
+## Week 5: Deployment, Documentation & Presentation
 
 	Deployment
 		Deploy backend (Spring Boot) on cloud (Heroku/AWS/Railway).
@@ -75,7 +75,7 @@ Week 5: Deployment, Documentation & Presentation
 		Upload code to GitHub with an open-source license.
 
 
-🎯 Final Deliverables
+## 🎯 Final Deliverables
 
     Functional Gardening App
     Database & Backend API
