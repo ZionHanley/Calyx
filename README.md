@@ -51,7 +51,6 @@ Calyx is a gardening application that is designed to promote the planting of loc
   Week 1:  Research, Planning & Backend Setup
   - [ ] Research & Data Collection
   - [ ] Backend Architecture
-  - [ ] Python Data Processing Setup
 
   Week 2: Core Backend Features & Basic UI
   - [ ] Backend Features
@@ -69,6 +68,8 @@ Calyx is a gardening application that is designed to promote the planting of loc
   Week 5: Deployment, Documentation & Presentation
   - [ ] Deployment
   - [ ] Final Documentation
+
+For the detailed roadmap, please check [here](https://github.com/Sharky3333/Calyx/blob/main/Roadmap.md).
 
 
 ## Final Deliverables

@@ -16,9 +16,6 @@
 			/pests (GET, POST)
 			/soil (GET, POST, UPDATE)
 			/alerts (GET, POST)
-	Python Data Processing Setup
-		Use Flask/FastAPI for soil test analysis & crop recommendations.
-		Start processing crop and pest data for storage.
 
 
 ## Week 2: Core Backend Features & Basic UI
