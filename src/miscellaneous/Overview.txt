@@ -1,0 +1,51 @@
+CS Seminar Project Proposal v2
+
+
+	My project proposal is an application that aids home gardeners in planning their
+	crop rotations. This app will use geographical and crop information to help home
+	gardeners while also promoting the planting of more local varieties of
+	vegetables. The majority of the project will consist of database management,
+	data visualization, and building the plant recommendation system.
+
+
+Functions and Features
+
+	Crop recommendation system
+		A database with crop requirements the app will use the data of recommended
+		planting time, germination time, and regionality to pick the best crops.
+			Recommends a companion plant that will help with soil health
+			
+	Pest warning system
+		Regional pest information from federal agencies along with along with
+		regional location information will determine the best time to plant and the
+		pest to look out for.
+		
+	Soil health information₁
+		A bar chart that has the estimated pH Level, Phosphorus (P), Potassium (K),
+		and Nitrogen (N).
+			Logging soil additives and minerals estimate soil health over time.
+			
+	UI Garden planner
+		The garden sizing addition gives proper crop spacing, helps them to map out
+		their space efficiently, and know the proper amount of seeds needed.
+		
+	Gantt chart that has the planned crop rotation.
+		This will display the planned crops for the next four seasons.
+		
+	Document sheet that can come in the form of a PNG, PDF, or CSV.
+		Both charts
+		Crop table with seeds needed, spacing, and companion plants
+		
+	General-purpose alert box that tells the gardener of any critical information.
+	
+	A calendar that shows weather predictions for the next 7 days.
+		Warns of weather events that could pose harm
+
+Stack
+
+	Spring Boot (Java)
+	FastAPI (Python)
+	JavaFX
+	MySql
+	
+1. https://www.amazon.com/dp/B0000DI845

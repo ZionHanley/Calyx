@@ -1,0 +1,96 @@
+Workflow Board
+
+/***********************************************************************************************************************************************/
+TODO
+
+	Find way to source regional crop database
+	
+	Window
+		Returns date and time
+		Profile select screen
+		Options
+			Open as Profile
+	
+	Find a way to source crop and pest inforamtion.
+	
+	UI Garden planner
+		Use the garden bed sizing and the selected crop to give the amount of seeds needed
+		
+	Calendar
+		Have the weather predictions for the next seven days 
+	
+	Profile
+		Username
+		Region
+		Signed Agreement
+		Language
+		Crop Rotation
+			Month
+			Plant Index Number
+	
+	Local Flower recommendation system
+		Flower Index Number
+		Flower Name
+		Scientific Name
+		Optimalplanting period
+		Preferred Soil Levels
+		Regionality
+	
+	Crop recommendation system
+		Plant Index Number
+		Plant Name
+		Scientific Name
+		Optimal planting period
+		Preferred Soil Levels
+		Regionality
+		Germination time
+		Companion Plants
+	
+	Pest warning system
+		Pest Index Number
+		Pest Local Name
+		Scientific Name
+		Pest Active threat Period
+		Advantagoues Plants
+		Regionality
+	
+	Dynamic updates of the Pest information
+	
+	More search on ways to obtain soil health information
+	
+	Dynamic Soil health information₁
+		Long term storage of soil health information
+			Date and time
+			Soil Metrics
+	
+	Gantt chart that has the planned crop rotation.
+		
+	
+	Document sheet PNG, PDF, or CSV.
+		Soil health information as Bar Chart
+		Gantt chart
+	
+	Alert box
+		Seasonal Pest Alerts
+		Weather event Alerts
+
+/***********************************************************************************************************************************************/
+DOING
+
+	MySql database framework
+		Find out how to hold data for an app, if I can use MySql or have to use a csv
+	
+	Application Layout
+		Using Gimp
+	
+	.
+
+/***********************************************************************************************************************************************/
+DONE
+
+
+
+
+/***********************************************************************************************************************************************/
+BUGS / NOT SURE
+

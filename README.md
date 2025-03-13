@@ -86,8 +86,9 @@ Calyx is a gardening application that is designed to promote the planting of loc
 
 
 ## Data Sources
-  - [USDA Plant Hardiness Zone Map](https://planthardiness.ars.usda.gov/PHZMWeb/)
-  - [USDA Plant Database](https://plants.sc.egov.usda.gov/Home.aspx)
+  - [USDA Plant Hardiness Zone GIS Datasets](https://prism.oregonstate.edu/projects/plant_hardiness_zones.php)
+  - [USPS ZIP Code by Area and District Codes](https://postalpro.usps.com/ZIP_Locale_Detail)
+  - [Soil informtion] (https://websoilsurvey.nrcs.usda.gov/app/WebSoilSurvey.aspx)
   - [USDA Soil Health](https://www.nrcs.usda.gov/wps/portal/nrcs/main/soils/health/)
   - [USDA Pest Information](https://www.aphis.usda.gov/aphis/resources/pests-diseases/)
   - [NOAA Weather API](https://www.weather.gov/documentation/services-web-api)
