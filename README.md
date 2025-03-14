@@ -89,7 +89,7 @@ For the detailed roadmap, please check [here](https://github.com/Sharky3333/Caly
 ## Data Sources
   - [USDA Plant Hardiness Zone GIS Datasets](https://prism.oregonstate.edu/projects/plant_hardiness_zones.php)
   - [USPS ZIP Code by Area and District Codes](https://postalpro.usps.com/ZIP_Locale_Detail)
-  - [Soil] (https://websoilsurvey.nrcs.usda.gov/app/WebSoilSurvey.aspx)
+  - [USDA Soil Health](https://websoilsurvey.nrcs.usda.gov/app/)
   - [USDA Soil Health](https://www.nrcs.usda.gov/wps/portal/nrcs/main/soils/health/)
   - [USDA Pest Information](https://www.aphis.usda.gov/aphis/resources/pests-diseases/)
   - [NOAA Weather API](https://www.weather.gov/documentation/services-web-api)
