@@ -1,0 +1,14 @@
+{
+  "name": "Java Development Container",
+  "dockerFile": "Dockerfile",
+  "settings": {
+    "java.home": "/usr/lib/jvm/java-11-openjdk"
+  },
+  "extensions": [
+    "redhat.java",
+    "vscjava.vscode-java-pack",
+    "microsoft.azure-tools-for-java"
+  ],
+  "postCreateCommand": "mvn install",
+  "remoteUser": "vscode"
+}
