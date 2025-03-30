@@ -1,0 +1,18 @@
+Plant,Common Pests,Type,Damage Symptoms,Organic Control,Chemical Control,Region
+Aloe Vera,"Aphids, Mealybugs, Scale Insects",Insect,"Sticky leaves, stunted growth","Neem oil, insecticidal soap","Imidacloprid (systemic)",Global
+Amaranth,"Flea Beetles, Leaf Miners, Aphids",Insect,"Holes in leaves, curling","Spinosad, row covers","Pyrethrin spray",Americas/Asia
+Ambercup Squash,"Squash Bugs, Vine Borers, Powdery Mildew",Insect/Fungus,"Wilting vines, white fungal patches","Row covers, milk spray","Myclobutanil (fungicide)",North America
+Ambrosia Cantaloupe,"Aphids, Cucumber Beetles, Fusarium Wilt",Insect/Fungus,"Yellow leaves, collapsed vines","Beneficial nematodes, compost tea","Thiophanate-methyl",Global
+Artichoke,"Artichoke Plume Moth, Slugs, Snails",Insect/Mollusk,"Burrowed stems, ragged leaves","Diatomaceous earth, copper tape","Iron phosphate bait",Mediterranean/US
+Arugula,"Flea Beetles, Cabbage Worms",Insect,"Shot-hole leaves","Floating row covers, kaolin clay","Permethrin",Temperate regions
+Black-Eyed Pea,"Cowpea Curculio, Root-Knot Nematodes",Insect/Nematode,"Scarred pods, galled roots","Solarization, marigold intercrop","Carbofuran",Tropics/Subtropics
+Fluted Pumpkin,"Leaf Beetles, Fruit Flies",Insect,"Defoliation, fruit rot","Garlic/chili spray","Malathion",West Africa
+Molokhia,"Whiteflies, Spider Mites",Insect,"Yellowing leaves, webbing","Predatory mites, neem oil","Abamectin",Middle East/Asia
+Okra,"Corn Earworm, Root-Knot Nematodes",Insect/Nematode,"Wilting, galled roots","Marigold interplanting","Oxamyl",Global
+Yam,"Yam Beetle, Nematodes, Anthracnose",Insect/Fungus,"Rotting tubers, leaf spots","Crop rotation, biocontrol fungi","Mancozeb",Tropics
+Adzuki Bean,"Bean Weevil, Aphids",Insect,"Holes in seeds, curled leaves","Freezing stored beans","Deltamethrin",East Asia
+Alfalfa Sprouts,"Thrips, Lygus Bugs",Insect,"Deformed sprouts","Sticky traps, spinosad","Lambda-cyhalothrin",Global
+Aonori,"Seaweed Flies, Algae Grazers",Insect/Other,"Discolored fronds","Saltwater rinses","None (avoid chemicals)",Coastal Asia
+Ash Gourd,"Fruit Flies, Downy Mildew",Insect/Fungus,"Rotting fruit, yellow patches","Copper sprays, traps","Metalaxyl",South Asia
+Asian Greens,"Diamondback Moth, Clubroot",Insect/Fungus,"Skeletonized leaves, swollen roots","Bacillus thuringiensis (Bt)","Chlorothalonil",Southeast Asia
+Azuki Bean,"Bean Weevil, Rust Fungus",Insect/Fungus,"Black spots, defoliation","Sulfur dust","Triazole fungicides",East Asia
