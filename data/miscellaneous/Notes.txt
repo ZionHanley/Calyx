@@ -7,3 +7,16 @@ Potential Project Name Ideas
 
 Minimum Viable Product (MVP)
 	
+Need to make a one to many reationship, One Soil Health to many Zipcodes
+	• Zipcode
+	• Soil Health
+	• Soil Type
+
+User inforamtion
+	• Name
+	• Username
+	• Password
+	• State
+	• Zipcode
+	• Soil Test History (N-K-P)
+	
