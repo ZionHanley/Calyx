@@ -3,7 +3,7 @@
 
 ### Overview
 
-Calyx is an open source application that is ment to aid home gardeners when planning crop rotations. This application  uses geographical and crop information to help home gardeners while also promoting the planting of more local varieties.
+Calyx is an open source application that aids home gardeners in planning crop rotations. Uses geographical and crop information to help home gardeners while also promoting natural healthy soil management.
 
 
 ### Problem Statement

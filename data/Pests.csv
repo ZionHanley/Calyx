@@ -1,18 +1,237 @@
 Plant,Common Pests,Type,Damage Symptoms,Organic Control,Chemical Control,Region
-Aloe Vera,"Aphids, Mealybugs, Scale Insects",Insect,"Sticky leaves, stunted growth","Neem oil, insecticidal soap","Imidacloprid (systemic)",Global
-Amaranth,"Flea Beetles, Leaf Miners, Aphids",Insect,"Holes in leaves, curling","Spinosad, row covers","Pyrethrin spray",Americas/Asia
-Ambercup Squash,"Squash Bugs, Vine Borers, Powdery Mildew",Insect/Fungus,"Wilting vines, white fungal patches","Row covers, milk spray","Myclobutanil (fungicide)",North America
-Ambrosia Cantaloupe,"Aphids, Cucumber Beetles, Fusarium Wilt",Insect/Fungus,"Yellow leaves, collapsed vines","Beneficial nematodes, compost tea","Thiophanate-methyl",Global
-Artichoke,"Artichoke Plume Moth, Slugs, Snails",Insect/Mollusk,"Burrowed stems, ragged leaves","Diatomaceous earth, copper tape","Iron phosphate bait",Mediterranean/US
-Arugula,"Flea Beetles, Cabbage Worms",Insect,"Shot-hole leaves","Floating row covers, kaolin clay","Permethrin",Temperate regions
-Black-Eyed Pea,"Cowpea Curculio, Root-Knot Nematodes",Insect/Nematode,"Scarred pods, galled roots","Solarization, marigold intercrop","Carbofuran",Tropics/Subtropics
-Fluted Pumpkin,"Leaf Beetles, Fruit Flies",Insect,"Defoliation, fruit rot","Garlic/chili spray","Malathion",West Africa
-Molokhia,"Whiteflies, Spider Mites",Insect,"Yellowing leaves, webbing","Predatory mites, neem oil","Abamectin",Middle East/Asia
-Okra,"Corn Earworm, Root-Knot Nematodes",Insect/Nematode,"Wilting, galled roots","Marigold interplanting","Oxamyl",Global
-Yam,"Yam Beetle, Nematodes, Anthracnose",Insect/Fungus,"Rotting tubers, leaf spots","Crop rotation, biocontrol fungi","Mancozeb",Tropics
-Adzuki Bean,"Bean Weevil, Aphids",Insect,"Holes in seeds, curled leaves","Freezing stored beans","Deltamethrin",East Asia
-Alfalfa Sprouts,"Thrips, Lygus Bugs",Insect,"Deformed sprouts","Sticky traps, spinosad","Lambda-cyhalothrin",Global
+Acorn Squash,"Squash Bugs, Powdery Mildew",Insect/Fungus,"Wilting vines, white coating","Row covers, milk spray",Myclobutanil,North America
+Adzuki Bean,"Bean Weevil, Aphids",Insect,"Holes in seeds, curled leaves","Freezing stored beans",Deltamethrin,East Asia
+Ahipa,"Root Knot Nematodes, Leaf Spot",Nematode/Fungus,"Galled roots, brown spots","Marigold intercrop, resistant varieties",Oxamyl,South America
+Alfalfa Sprouts,"Thrips, Lygus Bugs",Insect,"Deformed sprouts","Sticky traps, spinosad",Lambda-cyhalothrin,Global
+All Blue Potato,"Colorado Potato Beetle, Late Blight",Insect/Fungus,"Defoliation, water-soaked lesions","Straw mulch, copper spray",Chlorothalonil,North America/Europe
+Aloe Vera,"Aphids, Mealybugs, Scale Insects",Insect,"Sticky leaves, stunted growth","Neem oil, insecticidal soap",Imidacloprid (systemic),Global
+Amaranth,"Flea Beetles, Leaf Miners, Aphids",Insect,"Holes in leaves, curling","Spinosad, row covers",Pyrethrin spray,Americas/Asia
+Ambercup Squash,"Squash Bugs, Vine Borers, Powdery Mildew",Insect/Fungus,"Wilting vines, white fungal patches","Row covers, milk spray",Myclobutanil (fungicide),North America
+Ambrosia Cantaloupe,"Aphids, Cucumber Beetles, Fusarium Wilt",Insect/Fungus,"Yellow leaves, collapsed vines","Beneficial nematodes, compost tea",Thiophanate-methyl,Global
+Anise,"Aphids, Cutworms",Insect,"Curled leaves, stem damage","Neem oil, diatomaceous earth",Pyrethrin spray,Mediterranean/Asia
 Aonori,"Seaweed Flies, Algae Grazers",Insect/Other,"Discolored fronds","Saltwater rinses","None (avoid chemicals)",Coastal Asia
-Ash Gourd,"Fruit Flies, Downy Mildew",Insect/Fungus,"Rotting fruit, yellow patches","Copper sprays, traps","Metalaxyl",South Asia
-Asian Greens,"Diamondback Moth, Clubroot",Insect/Fungus,"Skeletonized leaves, swollen roots","Bacillus thuringiensis (Bt)","Chlorothalonil",Southeast Asia
+Arame,"Seaweed Flies, Epiphytic Algae",Insect/Other,"Discolored fronds, reduced growth","Saltwater rinses, proper drying","None (avoid chemicals)",Coastal Japan
+Arikara Squash,"Squash Vine Borer, Scab",Insect/Fungus,"Wilting vines, corky lesions","Aluminum foil collars, milk spray",Chlorothalonil,North America
+Arrowroot,"Root Weevils, Soft Rot",Insect/Bacteria,"Notched leaves, mushy rhizomes","Beneficial nematodes, dry soil",Oxytetracycline,South America/Asia
+Artichoke,"Artichoke Plume Moth, Slugs, Snails",Insect/Mollusk,"Burrowed stems, ragged leaves","Diatomaceous earth, copper tape",Iron phosphate bait,Mediterranean/US
+Arugula,"Flea Beetles, Cabbage Worms",Insect,"Shot-hole leaves","Floating row covers, kaolin clay",Permethrin,Temperate regions
+Ash Gourd,"Fruit Flies, Downy Mildew",Insect/Fungus,"Rotting fruit, yellow patches","Copper sprays, traps",Metalaxyl,South Asia
+Asian Greens,"Diamondback Moth, Clubroot",Insect/Fungus,"Skeletonized leaves, swollen roots","Bacillus thuringiensis (Bt)",Chlorothalonil,Southeast Asia
+Asparagus,"Asparagus Beetle, Fusarium Crown Rot",Insect/Fungus,"Defoliation, crown discoloration","Beneficial nematodes, compost tea",Carbendazim,Global
 Azuki Bean,"Bean Weevil, Rust Fungus",Insect/Fungus,"Black spots, defoliation","Sulfur dust","Triazole fungicides",East Asia
+Baby Boo Pumpkin,"Squash Bugs, Gummy Stem Blight",Insect/Fungus,"Wilting vines, oozing stems","Row covers, copper spray",Boscalid,North America
+Bamboo Shoot,"Bamboo Mites, Scale Insects",Insect,"Yellow streaks, sooty mold","Horticultural oil, pruning",Acephate,East Asia
+Banana Pepper,"Pepper Weevil, Anthracnose",Insect/Fungus,"Hollowed fruit, sunken lesions","Neem oil, resistant varieties",Azoxystrobin,Americas
+Banana Squash,"Squash Vine Borer, Scab",Insect/Fungus,"Wilting vines, corky lesions","Aluminum foil collars, milk spray",Chlorothalonil,North America
+Basil,"Whiteflies, Downy Mildew",Insect/Fungus,"Yellow leaves, gray mold","Garlic spray, proper spacing",Myclobutanil,Global
+Bean Sprout,"Fungus Gnats, Bacterial Blight",Insect/Bacteria,"Wilting, slimy roots","Hydrogen peroxide soak",Streptomycin,Global
+Beet,"Leafminers, Cercospora Leaf Spot",Insect/Fungus,"Tunnels in leaves, purple spots","Row covers, neem oil",Mancozeb,Global
+Belgian Endive,"Slugs, Powdery Mildew",Mollusk/Fungus,"Chewed leaves, white coating","Diatomaceous earth, milk spray",Myclobutanil,Europe/North America
+Bell Pepper,"Aphids, Bacterial Spot",Insect/Bacteria,"Curled leaves, water-soaked spots","Companion planting, copper spray",Streptomycin,Global
+Bintje Potato,"Colorado Potato Beetle, Late Blight",Insect/Fungus,"Defoliation, water-soaked lesions","Straw mulch, copper spray",Chlorothalonil,Europe
+Bitter Melon,"Fruit Flies, Powdery Mildew",Insect/Fungus,"Spotted fruit, white coating","Kaolin clay, baking soda spray",Tebuconazole,Asia
+Black Bean,"Bean Weevil, Rust",Insect/Fungus,"Holes in beans, orange pustules","Freezing stored beans, sulfur dust",Propiconazole,Latin America
+Black Radish,"Flea Beetles, Black Root",Insect/Fungus,"Pitted leaves, blackened roots","Row covers, resistant varieties",Thiophanate-methyl,Europe/Asia
+Black Salsify,"Root Maggots, Rust",Insect/Fungus,"Tunneled roots, orange spots","Wood ash barrier, sulfur spray",Propiconazole,Europe
+Black-Eyed Pea,"Cowpea Curculio, Root-Knot Nematodes",Insect/Nematode,"Scarred pods, galled roots","Solarization, marigold intercrop",Carbofuran,Tropics/Subtropics
+Bok Choy,"Cabbage Loopers, Clubroot",Insect/Fungus,"Holes in leaves, swollen roots","Row covers, lime amendment",Chlorothalonil,East Asia
+Boniato,"Sweet Potato Weevil, Scurf",Insect/Fungus,"Tunneled tubers, dark spots","Deep planting, sanitation",Imidacloprid,Caribbean
+Borage,"Caterpillars, Gray Mold",Insect/Fungus,"Chewed leaves, fuzzy gray decay","Hand picking, proper spacing",Iprodione,Mediterranean
+Borlotti Bean,"Bean Weevil, Anthracnose",Insect/Fungus,"Holes in beans, sunken lesions","Freezing stored beans, pruning",Azoxystrobin,Mediterranean
+Boston Morrow Squash,"Squash Vine Borer, Anthracnose",Insect/Fungus,"Wilting vines, sunken lesions","Aluminum foil collars, pruning",Azoxystrobin,North America
+Broad Beans,"Black Bean Aphid, Chocolate Spot",Insect/Fungus,"Curled leaves, brown spots","Strong water spray, proper spacing",Chlorothalonil,Europe/Asia
+Broad-Leaf Arrowhead,"Leaf Beetles, Leaf Spot",Insect/Fungus,"Chewed leaves, brown spots","Neem oil, copper spray",Mancozeb,East Asia
+Broccoflower,"Cabbage Worms, Clubroot",Insect/Fungus,"Holes in florets, swollen roots","Row covers, lime amendment",Flutolanil,North America/Europe
+Broccoli,"Imported Cabbage Worm, Black Rot",Insect/Bacteria,"Chewed leaves, V-shaped lesions","Bt spray, resistant varieties",Streptomycin,Global
+Broccolini,"Diamondback Moth, Downy Mildew",Insect/Fungus,"Skeletonized leaves, yellow patches","Floating row covers, baking soda",Fosetyl-Al,Global
+Brussels Sprout,"Cabbage Root Fly, Ring Spot",Insect/Fungus,"Wilting plants, target spots","Collars, proper spacing",Mancozeb,Europe/North America
+Burdock Root,"Leaf Miners, Rust Fungus",Insect/Fungus,"Tunneling trails, orange spots","Sticky traps, sulfur dust","Triazole fungicides",East Asia
+Butter Bean,"Bean Leaf Beetle, White Mold",Insect/Fungus,"Skeletonized leaves, cottony growth","Row covers, proper airflow",Boscalid,Global
+Butterhead Lettuce,"Aphids, Bottom Rot",Insect/Fungus,"Sticky leaves, slimy base","Companion planting, calcium boost",Mefenoxam,Global
+Butternut Squash,"Squash Bugs, Powdery Mildew",Insect/Fungus,"Wilting vines, white coating","Row covers, milk spray",Myclobutanil,North America
+Cabbage,"Cabbage Looper, Fusarium Yellows",Insect/Fungus,"Irregular holes, yellowing","Row covers, resistant varieties",Thiophanate-methyl,Global
+Cannellini Bean,"Bean Leafroller, White Mold",Insect/Fungus,"Rolled leaves, cottony growth","Bt spray, proper airflow",Boscalid,Mediterranean
+Caraway,"Caraway Weevil, Powdery Mildew",Insect/Fungus,"Notched leaves, white coating","Neem oil, sulfur spray",Myclobutanil,Europe/Asia
+Carnival Squash,"Squash Bugs, Downy Mildew",Insect/Fungus,"Wilting vines, yellow patches","Row covers, baking soda spray",Fosetyl-Al,North America
+Carrot,"Carrot Rust Fly, Alternaria Leaf Blight",Insect/Fungus,"Rusty tunnels, brown leaf spots","Row covers, resistant varieties",Chlorothalonil,Global
+Cauliflower,"Cabbage White Butterfly, Clubroot",Insect/Fungus,"Chewed leaves, swollen roots","Bt spray, lime amendment",Flutolanil,Global
+Cayenne Pepper,"Thrips, Bacterial Wilt",Insect/Bacteria,"Silver leaves, sudden wilting","Reflective mulch, resistant varieties",Streptomycin,Americas/Asia
+Celeriac,"Celery Fly, Leaf Spot",Insect/Fungus,"Blotchy mines, brown spots","Row covers, copper spray",Mancozeb,Europe
+Celery,"Tarnished Plant Bug, Early Blight",Insect/Fungus,"Stunted growth, target spots","Floating row covers, proper spacing",Chlorothalonil,Global
+Chamomile,"Aphids, Damping Off",Insect/Fungus,"Curled leaves, collapsed seedlings","Companion planting, chamomile tea",Metalaxyl,Europe/North America
+Chard,"Leafminers, Cercospora Leaf Spot",Insect/Fungus,"White trails, purple spots","Row covers, neem oil",Mancozeb,Global
+Cheddar Cauliflower,"Cabbage Worm, Black Rot",Insect/Bacteria,"Chewed leaves, V-shaped lesions","Bt spray, resistant varieties",Streptomycin,North America/Europe
+Cherry Pepper,"Pepper Maggot, Anthracnose",Insect/Fungus,"Tunneled fruit, sunken lesions","Sticky traps, resistant varieties",Azoxystrobin,Americas
+Chickpeas,"Pod Borers, Ascochyta Blight",Insect/Fungus,"Holes in pods, leaf lesions","Bt spray, resistant varieties",Azoxystrobin,Mediterranean/Asia
+Chili Pepper,"Aphids, Phytophthora Blight",Insect/Fungus,"Curled leaves, dark stem lesions","Neem oil, well-drained soil",Mefenoxam,Global
+Chives,"Thrips, Purple Blotch",Insect/Fungus,"Silver streaks, purple lesions","Neem oil, proper spacing",Mancozeb,Global
+Collard Greens,"Harlequin Bugs, Black Rot",Insect/Bacteria,"Stippled leaves, V-shaped lesions","Trap crops, resistant varieties",Streptomycin,Global
+Coriander,"Coriander Aphid, Bacterial Leaf Spot",Insect/Bacteria,"Curled leaves, water-soaked spots","Garlic spray, resistant varieties","Copper fungicide",Global
+Corms,"Corn Earworm, Fusarium Rot",Insect/Fungus,"Tunneled corms, pink mold","Solarization, Trichoderma",Thiabendazole,Global
+Corn,"Corn Earworm, Rust",Insect/Fungus,"Damaged ears, orange pustules","Bt spray, resistant varieties",Propiconazole,Global
+Cucumber,"Cucumber Beetles, Angular Leaf Spot",Insect/Bacteria,"Stunted vines, water-soaked spots","Floating row covers, copper spray",Streptomycin,Global
+Cymbopogon,"Grasshoppers, Rust",Insect/Fungus,"Chewed leaves, orange pustules","Neem oil, proper drainage",Propiconazole,Asia/Africa
+Daikon,"Flea Beetles, Root Maggots",Insect,"Pitted leaves, tunneled roots","Row covers, wood ash barrier",Carbaryl,East Asia
+Delicata,"Squash Bugs, Powdery Mildew",Insect/Fungus,"Wilting vines, white coating","Row covers, milk spray",Myclobutanil,North America
+Dickinson Pumpkin,"Squash Vine Borer, Scab",Insect/Fungus,"Wilting vines, corky lesions","Aluminum foil collars, milk spray",Chlorothalonil,North America
+Dill,"Dill Aphid, Powdery Mildew",Insect/Fungus,"Sticky residue, white coating","Strong water spray, sulfur dust",Myclobutanil,Global
+Eddoe,"Taro Beetle, Pythium Rot",Insect/Fungus,"Leaf notches, soft tubers","Crop rotation, biocontrol agents",Mefenoxam,Asia/Africa
+Eggplant,"Flea Beetles, Verticillium Wilt",Insect/Fungus,"Shot-hole leaves, yellowing","Mulching, resistant rootstocks",Propiconazole,Global
+Endive,"Slugs, Anthracnose",Mollusk/Fungus,"Chewed leaves, sunken spots","Beer traps, resistant varieties",Chlorothalonil,Europe/North America
+Fat Hen,"Flea Beetles, Downy Mildew",Insect/Fungus,"Shot-hole leaves, yellow patches","Row covers, baking soda spray",Fosetyl-Al,Europe
+Fava Bean,"Black Bean Aphid, Chocolate Spot",Insect/Fungus,"Curled leaves, brown spots","Strong water spray, proper spacing",Chlorothalonil,Mediterranean
+Fayot Bean,"Bean Weevil, Rust",Insect/Fungus,"Holes in beans, orange pustules","Freezing stored beans, sulfur dust",Propiconazole,France
+Fennel,"Fennel Aphid, Cercospora Blight",Insect/Fungus,"Sticky leaves, brown spots","Neem oil, resistant varieties",Mancozeb,Mediterranean
+Fiddlehead,"Slugs, Fern Rust",Mollusk/Fungus,"Chewed fronds, orange spots","Diatomaceous earth, sulfur spray",Propiconazole,North America
+Field Cucumber,"Spider Mites, Gummy Stem Blight",Insect/Fungus,"Webbing, oozing stems","Predatory mites, sulfur spray",Boscalid,Global
+Fiorentino Tomato,"Tomato Hornworm, Early Blight",Insect/Fungus,"Defoliation, target spots","Bt spray, copper fungicide",Chlorothalonil,Italy
+Flat Beans,"Bean Leaf Beetle, Anthracnose",Insect/Fungus,"Skeletonized leaves, sunken lesions","Row covers, resistant varieties",Azoxystrobin,Global
+Flat Italian Onion,"Onion Thrips, Purple Blotch",Insect/Fungus,"Silver leaves, purple lesions","Reflective mulch, proper spacing",Mancozeb,Italy
+Flat White Boer Pumpkin,"Squash Bugs, Gummy Stem Blight",Insect/Fungus,"Wilting vines, oozing stems","Row covers, copper spray",Boscalid,South Africa
+Flint Corn,"Corn Earworm, Smut",Insect/Fungus,"Damaged ears, black spores","Bt spray, resistant varieties",Thiram,North America
+Fluted Pumpkin,"Leaf Beetles, Fruit Flies",Insect,"Defoliation, fruit rot","Garlic/chili spray",Malathion,West Africa
+French Bean,"Bean Fly, Angular Leaf Spot",Insect/Bacteria,"Wilting, water-soaked spots","Wood ash, resistant varieties",Streptomycin,Global
+French Sorrel,"Sawflies, Leaf Spot",Insect/Fungus,"Skeletonized leaves, brown spots","Hand picking, copper spray",Mancozeb,Europe
+Frisée,"Slugs, Powdery Mildew",Mollusk/Fungus,"Chewed leaves, white coating","Diatomaceous earth, milk spray",Myclobutanil,Europe
+Futsu Squash,"Squash Vine Borer, Scab",Insect/Fungus,"Wilting vines, corky lesions","Aluminum foil collars, milk spray",Chlorothalonil,Japan
+Garlic,"Thrips, White Rot",Insect/Fungus,"Silver streaks, decaying bulbs","Garlic spray, solarization",Tebuconazole,Global
+Gem Squash,"Squash Bugs, Powdery Mildew",Insect/Fungus,"Wilting vines, white coating","Row covers, milk spray",Myclobutanil,South Africa
+German Butterball Potato,"Colorado Potato Beetle, Late Blight",Insect/Fungus,"Defoliation, water-soaked lesions","Straw mulch, copper spray",Chlorothalonil,Germany
+Gigante Bean,"Bean Weevil, White Mold",Insect/Fungus,"Holes in beans, cottony growth","Freezing stored beans, proper airflow",Boscalid,Mediterranean
+Ginger,"Root-Knot Nematodes, Bacterial Wilt",Nematode/Bacteria,"Knotted roots, yellow leaves","Marigold intercrop, hot water treatment",Oxamyl,Asia
+Gold rush Squash,"Squash Vine Borer, Anthracnose",Insect/Fungus,"Wilting vines, sunken lesions","Aluminum foil collars, pruning",Azoxystrobin,North America
+Great Northern Bean,"Bean Weevil, White Mold",Insect/Fungus,"Holes in beans, cottony growth","Freezing stored beans, proper airflow",Boscalid,North America
+Green Bean,"Bean Leafroller, Angular Leaf Spot",Insect/Bacteria,"Rolled leaves, water-soaked spots","Bt spray, resistant varieties",Streptomycin,Global
+Habanero Pepper,"Broad Mites, Virus Complex",Insect/Virus,"Distorted growth, mottled leaves","Predatory mites, removal of infected plants","None (viral control)",Americas
+Honey Bear Squash,"Squash Bugs, Powdery Mildew",Insect/Fungus,"Wilting vines, white coating","Row covers, milk spray",Myclobutanil,North America
+Honeynut Squash,"Squash Vine Borer, Scab",Insect/Fungus,"Wilting vines, corky lesions","Aluminum foil collars, milk spray",Chlorothalonil,North America
+Hot Pepper,"Pepper Weevil, Bacterial Spot",Insect/Bacteria,"Hollowed fruit, leaf spots","Neem oil, copper spray",Streptomycin,Global
+Hubbard Squash,"Squash Bugs, Downy Mildew",Insect/Fungus,"Wilting vines, yellow patches","Row covers, baking soda spray",Fosetyl-Al,North America
+Jalapeño,"Thrips, Phytophthora Blight",Insect/Fungus,"Silver leaves, dark stem lesions","Reflective mulch, well-drained soil",Mefenoxam,Mexico
+Japanese Sweet Potato,"Sweet Potato Weevil, Scurf",Insect/Fungus,"Tunneled tubers, dark spots","Deep planting, sanitation",Imidacloprid,East Asia
+Jerusalem Artichoke,"Sunflower Moth, Sclerotinia Rot",Insect/Fungus,"Webbed flowers, white mold","Bt spray, proper spacing",Boscalid,North America
+Jicama,"Root Weevils, Soft Rot",Insect/Bacteria,"Notched leaves, mushy tubers","Beneficial nematodes, dry soil",Oxytetracycline,Mexico
+Kale,"Cabbage Worms, Black Rot",Insect/Bacteria,"Chewed leaves, V-shaped lesions","Bt spray, resistant varieties",Streptomycin,Global
+Kelp,"Sea Urchins, Epiphytic Algae",Marine/Other,"Frond damage, overgrowth","Manual removal, salinity control","None (aquatic systems)",Coastal regions
+Kidney Bean,"Bean Weevil, Anthracnose",Insect/Fungus,"Holes in beans, sunken lesions","Freezing stored beans, pruning",Azoxystrobin,Global
+Kohlrabi,"Cabbage Root Maggot, Clubroot",Insect/Fungus,"Wilting, swollen roots","Collars, lime amendment",Flutolanil,Global
+Konjac,"Soft Scale, Erwinia Rot",Insect/Bacteria,"Sticky residue, foul-smelling corms","Alcohol swabs, proper curing",Streptomycin,East Asia
+Lavender,"Spittlebugs, Phytophthora Root Rot",Insect/Fungus,"Frothy spittle, blackened roots","Strong water spray, well-drained soil",Mefenoxam,Mediterranean
+Leek,"Leek Moth, Rust",Insect/Fungus,"Tunneled leaves, orange spots","Row covers, sulfur dust",Propiconazole,Europe
+Lentil,"Aphids, Anthracnose",Insect/Fungus,"Sticky residue, sunken lesions","Reflective mulch, sulfur spray",Azoxystrobin,Mediterranean/Asia
+Lettuce,"Aphids, Bottom Rot",Insect/Fungus,"Sticky leaves, slimy base","Companion planting, calcium boost",Mefenoxam,Global
+Lima bean,"Bean Leaf Beetle, Downy Mildew",Insect/Fungus,"Skeletonized leaves, yellow patches","Row covers, resistant varieties",Fosetyl-Al,South America
+Lumina Pumpkin,"Squash Bugs, Powdery Mildew",Insect/Fungus,"Wilting vines, white coating","Row covers, milk spray",Myclobutanil,North America
+Malanga,"Malanga Beetle, Soft Rot",Insect/Bacteria,"Chewed leaves, mushy corms","Neem oil, proper curing",Oxytetracycline,Caribbean
+Mallow,"Mallow Beetle, Leaf Spot",Insect/Fungus,"Chewed leaves, brown spots","Hand picking, copper spray",Mancozeb,Europe
+Mangelwurzel,"Flea Beetles, Powdery Mildew",Insect/Fungus,"Shot-hole leaves, white coating","Row covers, baking soda spray",Myclobutanil,Europe
+Mangetout,"Pea Moth, Powdery Mildew",Insect/Fungus,"Tunneled pods, white coating","Early planting, sulfur spray",Myclobutanil,Global
+Marjoram,"Spider Mites, Root Rot",Insect/Fungus,"Webbing, wilting plants","Neem oil, well-drained soil",Thiophanate-methyl,Mediterranean
+Miner's Lettuce,"Slugs, Downy Mildew",Mollusk/Fungus,"Chewed leaves, yellow patches","Beer traps, resistant varieties",Fosetyl-Al,North America
+Molokhia,"Whiteflies, Spider Mites",Insect,"Yellowing leaves, webbing","Predatory mites, neem oil",Abamectin,Middle East/Asia
+Morels,"Fungus Gnats, Cobweb Mold",Insect/Fungus,"Damaged mycelium, cottony growth","Sticky traps, proper ventilation",Chlorothalonil,North America/Europe
+Mung Bean,"Bean Weevils, Cercospora Leaf Spot",Insect/Fungus,"Holes in seeds, purple leaf spots","Freezing stored beans, spacing",Chlorothalonil,Asia
+Mushroom,"Fungus Gnats, Cobweb Mold",Insect/Fungus,"Damaged mycelium, cottony growth","Sticky traps, proper ventilation",Chlorothalonil,Global
+Mustard Greens,"Harlequin Bugs, White Rust",Insect/Fungus,"Stippled leaves, white pustules","Trap crops, vinegar spray",Mefenoxam,Global
+Navy Bean,"Bean Weevil, Anthracnose",Insect/Fungus,"Holes in beans, sunken lesions","Freezing stored beans, pruning",Azoxystrobin,North America
+Nettle,"Aphids, Rust",Insect/Fungus,"Curled leaves, orange spots","Strong water spray, sulfur dust",Propiconazole,Global
+New Potato,"Colorado Potato Beetle, Early Blight",Insect/Fungus,"Defoliation, target spots","Straw mulch, copper spray",Chlorothalonil,Global
+New Zealand Spinach,"Slugs, Leaf Spot",Mollusk/Fungus,"Chewed leaves, brown spots","Diatomaceous earth, copper spray",Mancozeb,New Zealand
+Oak Leaf Lettuce,"Slugs, Downy Mildew",Mollusk/Fungus,"Chewed leaves, yellow patches","Beer traps, resistant varieties",Fosetyl-Al,Europe/North America
+Okra,"Corn Earworm, Root-Knot Nematodes",Insect/Nematode,"Wilting, galled roots","Marigold interplanting",Oxamyl,Global
+Onion,"Onion Maggot, Purple Blotch",Insect/Fungus,"Wilting seedlings, purple lesions","Sand barriers, resistant varieties",Mancozeb,Global
+Orange Bell Pepper,"Aphids, Bacterial Spot",Insect/Bacteria,"Curled leaves, water-soaked spots","Companion planting, copper spray",Streptomycin,Global
+Orange Tomato,"Tomato Hornworm, Early Blight",Insect/Fungus,"Defoliation, target spots","Bt spray, copper fungicide",Chlorothalonil,Global
+Oregano,"Spider Mites, Root Rot",Insect/Fungus,"Webbing, wilting plants","Neem oil, well-drained soil",Thiophanate-methyl,Mediterranean
+Paprika,"Thrips, Virus Complex",Insect/Virus,"Silver leaves, stunted growth","Reflective mulch, removal of infected plants","None (viral control)",Hungary
+Parsnip,"Parsnip Fly, Canker",Insect/Fungus,"Rusty tunnels, orange-brown lesions","Row covers, resistant varieties",Thiophanate-methyl,Europe/North America
+Pattypan Squash,"Squash Bugs, Powdery Mildew",Insect/Fungus,"Wilting vines, white coating","Row covers, milk spray",Myclobutanil,North America
+Pea,"Pea Weevil, Fusarium Wilt",Insect/Fungus,"Notched seeds, yellowing plants","Early planting, resistant varieties",Thiophanate-methyl,Global
+Peanut,"Leafhoppers, Leaf Spot",Insect/Fungus,"Stippled leaves, brown spots","Neem oil, resistant varieties",Chlorothalonil,Global
+Pepper,"Aphids, Bacterial Spot",Insect/Bacteria,"Curled leaves, water-soaked spots","Companion planting, copper spray",Streptomycin,Global
+Peruvian Purple Potato,"Potato Tuber Moth, Late Blight",Insect/Fungus,"Tunneled tubers, water-soaked lesions","Deep planting, copper spray",Chlorothalonil,Peru
+Pie Pumpkin,"Squash Vine Borer, Scab",Insect/Fungus,"Wilting vines, corky lesions","Aluminum foil collars, milk spray",Chlorothalonil,North America
+Pinto Bean,"Bean Weevil, Rust",Insect/Fungus,"Holes in beans, orange pustules","Freezing stored beans, sulfur dust",Propiconazole,Americas
+Potato,"Colorado Potato Beetle, Late Blight",Insect/Fungus,"Defoliation, water-soaked lesions","Straw mulch, copper spray",Chlorothalonil,Global
+Purple Asparagus,"Asparagus Beetle, Fusarium Crown Rot",Insect/Fungus,"Defoliation, crown discoloration","Beneficial nematodes, compost tea",Carbendazim,Europe
+Purple Bell Pepper,"Aphids, Bacterial Spot",Insect/Bacteria,"Curled leaves, water-soaked spots","Companion planting, copper spray",Streptomycin,Global
+Purple Brussels Sprout,"Cabbage Root Fly, Ring Spot",Insect/Fungus,"Wilting plants, target spots","Collars, proper spacing",Mancozeb,Europe
+Purple Cabbage,"Cabbage Looper, Fusarium Yellows",Insect/Fungus,"Irregular holes, yellowing","Row covers, resistant varieties",Thiophanate-methyl,Europe
+Purple Carrot,"Carrot Rust Fly, Alternaria Leaf Blight",Insect/Fungus,"Rusty tunnels, brown leaf spots","Row covers, resistant varieties",Chlorothalonil,Global
+Purple Cauliflower,"Cabbage White Butterfly, Clubroot",Insect/Fungus,"Chewed leaves, swollen roots","Bt spray, lime amendment",Flutolanil,Europe/North America
+Purple Corn,"Corn Earworm, Rust",Insect/Fungus,"Damaged ears, orange pustules","Bt spray, resistant varieties",Propiconazole,North America
+Purple Kale,"Cabbage Worms, Black Rot",Insect/Bacteria,"Chewed leaves, V-shaped lesions","Bt spray, resistant varieties",Streptomycin,Global
+Purple Lettuce,"Aphids, Bottom Rot",Insect/Fungus,"Sticky leaves, slimy base","Companion planting, calcium boost",Mefenoxam,Global
+Purple Majesty Potato,"Colorado Potato Beetle, Late Blight",Insect/Fungus,"Defoliation, water-soaked lesions","Straw mulch, copper spray",Chlorothalonil,North America
+Purple Radish,"Flea Beetles, Black Root",Insect/Fungus,"Pitted leaves, blackened roots","Row covers, resistant varieties",Thiophanate-methyl,Global
+Purple String Bean,"Bean Leafroller, Angular Leaf Spot",Insect/Bacteria,"Rolled leaves, water-soaked spots","Bt spray, resistant varieties",Streptomycin,Global
+Purple Tomato,"Tomato Hornworm, Early Blight",Insect/Fungus,"Defoliation, target spots","Bt spray, copper fungicide",Chlorothalonil,Global
+Radicchio,"Slugs, Bacterial Leaf Spot",Mollusk/Bacteria,"Chewed leaves, water-soaked spots","Beer traps, resistant varieties",Streptomycin,Italy
+Radish,"Flea Beetles, Clubroot",Insect/Fungus,"Shot-hole leaves, swollen roots","Row covers, lime amendment",Flutolanil,Global
+Red Bell Pepper,"Aphids, Bacterial Spot",Insect/Bacteria,"Curled leaves, water-soaked spots","Companion planting, copper spray",Streptomycin,Global
+Red Bliss Potato,"Colorado Potato Beetle, Early Blight",Insect/Fungus,"Defoliation, target spots","Straw mulch, copper spray",Chlorothalonil,North America
+Red Cabbage,"Cabbage Looper, Fusarium Yellows",Insect/Fungus,"Irregular holes, yellowing","Row covers, resistant varieties",Thiophanate-methyl,Global
+Red Carrot,"Carrot Rust Fly, Alternaria Leaf Blight",Insect/Fungus,"Rusty tunnels, brown leaf spots","Row covers, resistant varieties",Chlorothalonil,Global
+Red Gold Potato,"Colorado Potato Beetle, Late Blight",Insect/Fungus,"Defoliation, water-soaked lesions","Straw mulch, copper spray",Chlorothalonil,North America
+Red Kuri Squash,"Squash Bugs, Downy Mildew",Insect/Fungus,"Wilting vines, yellow patches","Row covers, baking soda spray",Fosetyl-Al,Japan
+Red Onion,"Thrips, Botrytis Neck Rot",Insect/Fungus,"Silvery streaks, gray mold","Neem oil, proper curing",Iprodione,Global
+Red Russian Kale,"Cabbage Worms, Black Rot",Insect/Bacteria,"Chewed leaves, V-shaped lesions","Bt spray, resistant varieties",Streptomycin,Russia
+Red Warty Thing Squash,"Squash Vine Borer, Anthracnose",Insect/Fungus,"Wilting vines, sunken lesions","Aluminum foil collars, pruning",Azoxystrobin,North America
+Red Wing Onion,"Onion Fly, Downy Mildew",Insect/Fungus,"Collapsed plants, fuzzy growth","Crop rotation, garlic spray",Fosetyl-Al,North America
+Rhubarb,"Rhubarb Curculio, Ramularia Leaf Spot",Insect/Fungus,"Notched stalks, red-brown spots","Hand picking, proper spacing",Chlorothalonil,Europe/North America
+Rosemary,"Spittlebugs, Root Rot",Insect/Fungus,"Frothy spittle, wilting plants","Strong water spray, well-drained soil",Mefenoxam,Mediterranean
+Runner Bean,"Bean Weevil, Anthracnose",Insect/Fungus,"Holes in beans, sunken lesions","Freezing stored beans, pruning",Azoxystrobin,Europe
+Russian Banana Potato,"Potato Tuber Moth, Scab",Insect/Fungus,"Tunneled tubers, corky lesions","Deep planting, resistant varieties",Thiabendazole,Russia
+Rutabaga,"Cabbage Root Fly, Clubroot",Insect/Fungus,"Wilting, swollen roots","Collars, lime amendment",Flutolanil,Europe/North America
+Salsify,"Root Maggots, Rust",Insect/Fungus,"Tunneled roots, orange spots","Wood ash barrier, sulfur spray",Propiconazole,Europe
+Savoy Cabbage,"Cabbage Looper, Fusarium Yellows",Insect/Fungus,"Irregular holes, yellowing","Row covers, resistant varieties",Thiophanate-methyl,Europe
+Scallion,"Leafminers, Pink Root",Insect/Fungus,"White trails, discolored roots","Row covers, solarization",Thiophanate-methyl,Global
+Shallot,"Shallot Aphid, White Rot",Insect/Fungus,"Curled leaves, decaying bulbs","Diatomaceous earth, proper spacing",Tebuconazole,Global
+Skirret,"Carrot Rust Fly, Leaf Spot",Insect/Fungus,"Rusty tunnels, brown spots","Row covers, copper spray",Mancozeb,Europe
+Snap Pea,"Pea Moth, Powdery Mildew",Insect/Fungus,"Tunneled pods, white coating","Early planting, sulfur spray",Myclobutanil,Global
+Soybean,"Japanese Beetles, Soybean Cyst Nematode",Insect/Nematode,"Skeletonized leaves, yellow patches","Milky spore, resistant varieties",Abamectin,Global
+Spaghetti Squash,"Squash Bugs, Powdery Mildew",Insect/Fungus,"Wilting vines, white coating","Row covers, milk spray",Myclobutanil,North America
+Spinach,"Leafminers, Cladosporium Leaf Spot",Insect/Fungus,"Tunnels in leaves, brown spots","Floating row covers, baking soda",Chlorothalonil,Global
+Split Pea,"Pea Weevil, Ascochyta Blight",Insect/Fungus,"Notched seeds, leaf lesions","Early planting, resistant varieties",Azoxystrobin,Global
+Squash,"Squash Bugs, Powdery Mildew",Insect/Fungus,"Wilting vines, white coating","Row covers, milk spray",Myclobutanil,Global
+Stokes Purple Sweet Potato,"Sweet Potato Weevil, Sclerotium Rot",Insect/Fungus,"Tunneled tubers, white mold","Deep planting, Trichoderma",Fludioxonil,North America
+Sweet Corn,"Corn Earworm, Rust",Insect/Fungus,"Damaged ears, orange pustules","Bt spray, resistant varieties",Propiconazole,Global
+Sweet Potato,"Sweet Potato Weevil, Scurf",Insect/Fungus,"Tunneled tubers, dark spots","Deep planting, sanitation",Imidacloprid,Global
+Tabasco Pepper,"Thrips, Bacterial Wilt",Insect/Bacteria,"Silver leaves, sudden wilting","Reflective mulch, resistant varieties",Streptomycin,Mexico
+Taro,"Taro Leaf Blight, Taro Planthopper",Fungus/Insect,"Water-soaked lesions, hopper burn","Copper sprays, neem oil",Metalaxyl,Tropics
+Tat Soi,"Diamondback Moth, Black Rot",Insect/Bacteria,"Window-paned leaves, V-shaped lesions","Bt spray, proper spacing",Streptomycin,East Asia
+Thyme,"Spider Mites, Root Rot",Insect/Fungus,"Webbing, wilting plants","Neem oil, well-drained soil",Thiophanate-methyl,Mediterranean
+Tomatillo,"Tomatillo Fruit Worm, Early Blight",Insect/Fungus,"Hollowed fruit, target spots","Bt spray, copper fungicide",Chlorothalonil,Mexico
+Tomato,"Tomato Hornworm, Early Blight",Insect/Fungus,"Defoliation, target spots","Bt spray, copper fungicide",Chlorothalonil,Global
+Topinambur,"Sunflower Moth, Sclerotinia Rot",Insect/Fungus,"Webbed flowers, white mold","Bt spray, proper spacing",Boscalid,North America
+Torpedo Onion,"Bulb Mites, Fusarium Basal Rot",Insect/Fungus,"Deformed bulbs, pink rot","Hot water treatment, solarization",Thiabendazole,Italy
+Turnip,"Flea Beetles, Clubroot",Insect/Fungus,"Shot-hole leaves, swollen roots","Row covers, lime amendment",Flutolanil,Global
+Ube,"Sweet Potato Weevil, Sclerotium Rot",Insect/Fungus,"Tunneled tubers, white mold","Deep planting, Trichoderma",Fludioxonil,Southeast Asia
+Udupi Mattu Gulla Eggplant,"Shoot Borer, Phomopsis Blight",Insect/Fungus,"Wilting shoots, sunken fruit lesions","Neem cake, pruning",Carbendazim,India
+Ulluco,"Ulluco Weevil, Soft Rot",Insect/Bacteria,"Notched leaves, mushy tubers","Neem oil, proper curing",Oxytetracycline,Andes
+Upland Cress,"Flea Beetles, White Rust",Insect/Fungus,"Pitted leaves, white pustules","Row covers, vinegar spray",Mefenoxam,Europe
+Urad Bean,"Bean Fly, Root Rot",Insect/Fungus,"Wilting, blackened roots","Wood ash, resistant varieties",Metalaxyl,India
+Velvet Bean,"Bean Beetles, Nematodes",Insect/Nematode,"Holes in leaves, stunted growth","Crop rotation, marigold intercrop",Oxamyl,Tropics
+Vidalia Onion,"Onion Thrips, Smut",Insect/Fungus,"Silver leaves, black spores","Reflective mulch, resistant varieties",Thiram,USA
+Vitelotte Potato,"Colorado Potato Beetle, Late Blight",Insect/Fungus,"Defoliation, water-soaked lesions","Straw mulch, copper spray",Chlorothalonil,France
+Vivaldi Potato,"Colorado Potato Beetle, Early Blight",Insect/Fungus,"Defoliation, target spots","Straw mulch, copper spray",Chlorothalonil,UK
+Wasabi,"Wasabi Flea Beetle, Black Leg",Insect/Bacteria,"Shot-hole leaves, stem lesions","Shade cloth, hydrogen peroxide",Streptomycin,Japan
+Water Chestnut,"Waterfowl, Leaf Spot",Animal/Fungus,"Eaten foliage, circular spots","Netting, copper fungicide",Mancozeb,Asia
+Watercress,"Watercress Flea Beetle, Downy Mildew",Insect/Fungus,"Shot-hole leaves, yellow patches","Water flow management, baking soda",Fosetyl-Al,Global
+Wax Bean,"Bean Leaf Beetle, White Mold",Insect/Fungus,"Skeletonized leaves, cottony growth","Row covers, proper airflow",Boscalid,North America
+White 7 Pot Pepper,"Broad Mites, Virus Complex",Insect/Virus,"Distorted growth, mottled leaves","Predatory mites, removal of infected plants","None (viral control)",Caribbean
+White Asparagus,"Asparagus Beetle, Fusarium Crown Rot",Insect/Fungus,"Defoliation, crown discoloration","Beneficial nematodes, compost tea",Carbendazim,Europe
+White Bell Pepper,"Aphids, Bacterial Spot",Insect/Bacteria,"Curled leaves, water-soaked spots","Companion planting, copper spray",Streptomycin,Global
+White Corn,"Corn Earworm, Smut",Insect/Fungus,"Damaged ears, black spores","Bt spray, resistant varieties",Thiram,North America
+Xà Lách,"Slugs, Damping Off",Mollusk/Fungus,"Ragged leaves, collapsed seedlings","Beer traps, chamomile tea",Metalaxyl,Vietnam
+Xanthosoma Brasiliense,"Leaf Beetles, Pythium Rot",Insect/Fungus,"Chewed leaves, soft corms","Neem oil, well-drained soil",Mefenoxam,Brazil
+Xanthosoma Sagittifolium,"Cocoyam Root Borer, Soft Rot",Insect/Bacteria,"Tunneled corms, foul odor","Sanitation, proper curing",Oxytetracycline,West Africa
+Xi Lan Hua,"Cabbage White Butterfly, Clubroot",Insect/Fungus,"Chewed leaves, swollen roots","Bt spray, lime amendment",Flutolanil,China
+Xi Yang Ca,"Aphids, Downy Mildew",Insect/Fungus,"Sticky leaves, yellow patches","Soap spray, proper airflow",Fosetyl-Al,China
+Yam,"Yam Beetle, Nematodes, Anthracnose",Insect/Fungus,"Rotting tubers, leaf spots","Crop rotation, biocontrol fungi",Mancozeb,Tropics
+Yellow Onion,"Onion Maggot, Stemphylium Leaf Blight",Insect/Fungus,"Wilting, brown leaf streaks","Sand barriers, resistant varieties",Mancozeb,Global
+Yellow Summer Squash,"Squash Bugs, Powdery Mildew",Insect/Fungus,"Wilting vines, white coating","Row covers, milk spray",Myclobutanil,North America
+Yellow Tomato,"Tomato Hornworm, Early Blight",Insect/Fungus,"Defoliation, target spots","Bt spray, copper fungicide",Chlorothalonil,Global
+Yukon Gold Potato,"Colorado Potato Beetle, Late Blight",Insect/Fungus,"Defoliation, water-soaked lesions","Straw mulch, copper spray",Chlorothalonil,Canada
+Zephyr Squash,"Squash Vine Borer, Scab",Insect/Fungus,"Wilting vines, corky lesions","Aluminum foil collars, milk spray",Chlorothalonil,North America
+Zucchini,"Squash Bugs, Powdery Mildew",Insect/Fungus,"Wilting vines, white coating","Row covers, milk spray",Myclobutanil,Global
