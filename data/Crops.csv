@@ -1,237 +1,237 @@
 Common Name,Scientific Name,Continentality,Seasonality,Germination Time,Growth Time,N-P-K Ratio,Preferred pH,Row Space (in.),Plant Space (in.),Planting Depth (in.)
+Acorn Squash,Cucurbita pepo,North America,Summer,7-10 days,80-100 days,5-10-10,6.0-6.8,48,36,1
+Adzuki Bean,Vigna angularis,Asia,Summer,7-14 days,90-120 days,5-10-10,6.0-6.8,24,4,1
+Ahipa,Pachyrhizus ahipa,South America,Summer,7-14 days,120-150 days,5-10-10,6.0-7.0,24,12,1
+Alfalfa Sprouts,Medicago sativa,Asia,"Spring, Fall",5-7 days,7-14 days,5-5-5,6.0-7.0,12,2,0.25
+All Blue Potato,Solanum tuberosum,South America,Spring,14-21 days,90-120 days,10-10-10,4.8-5.5,36,12,4
 Aloe Vera,Aloe barbadensis,Africa,"Spring, Summer, Fall",14-21 days,365-730 days,5-5-5,6.0-7.0,24,18,0.5
 Amaranth,Amaranthus,Africa,Summer,7-14 days,50-60 days,10-5-5,6.0-7.0,18,12,0.25
 Ambercup Squash,Cucurbita maxima,Africa,Summer,7-10 days,80-100 days,5-10-10,6.0-6.8,48,36,1
 Ambrosia Cantaloupe,Cucumis melo,Africa,Summer,7-10 days,70-90 days,5-10-10,6.0-6.8,60,36,1
 Anise,Pimpinella anisum,Africa,"Spring, Fall",7-14 days,120-150 days,5-5-5,6.0-7.0,18,12,0.25
-Artichoke,Cynara scolymus,Africa,"Spring, Fall",7-14 days,150-180 days,5-10-10,6.0-7.0,48,36,0.5
-Arugula,Eruca vesicaria,Africa,"Spring, Fall",7-14 days,40-60 days,10-5-5,6.0-7.0,12,6,0.25
-Asparagus,Asparagus officinalis,Africa,"Spring",7-10 days,730-1095 days,5-10-10,6.0-6.8,48,18,1
-Black-Eyed Pea,Vigna unguiculata,Africa,Summer,7-14 days,70-90 days,5-10-10,6.0-7.0,24,4,1
-Fluted Pumpkin,Telfairia occidentalis,Africa,Summer,7-14 days,90-120 days,5-10-10,6.0-7.0,60,48,1
-Molokhia,Corchorus olitorius,Africa,Summer,7-14 days,60-80 days,10-5-5,6.0-7.0,18,12,0.25
-Okra,Abelmoschus esculentus,Africa,Summer,7-14 days,55-65 days,5-10-10,6.0-7.0,24,12,0.5
-Velvet Bean,Mucuna pruriens,Africa,Summer,7-14 days,120-150 days,5-10-10,6.0-7.0,36,24,1
-Yam,Dioscorea,Africa,Summer,14-21 days,180-300 days,5-10-10,5.5-6.5,48,36,4
-Adzuki Bean,Vigna angularis,Asia,Summer,7-14 days,90-120 days,5-10-10,6.0-6.8,24,4,1
-Alfalfa Sprouts,Medicago sativa,Asia,"Spring, Fall",5-7 days,7-14 days,5-5-5,6.0-7.0,12,2,0.25
 Aonori,Monostroma nitidum,Asia,"Spring, Summer",7-14 days,60-90 days,5-5-5,6.0-7.0,N/A,N/A,N/A
 Arame,Eisenia bicyclis,Asia,"Spring, Summer",7-14 days,90-120 days,5-5-5,6.0-7.0,N/A,N/A,N/A
+Arikara Squash,Cucurbita maxima,North America,Summer,7-10 days,90-110 days,5-10-10,6.0-6.8,60,48,1
+Arrowroot,Maranta arundinacea,South America,"Spring, Summer",14-21 days,240-300 days,5-10-10,5.5-6.5,36,24,2
+Artichoke,Cynara scolymus,Africa,"Spring, Fall",7-14 days,150-180 days,5-10-10,6.0-7.0,48,36,0.5
+Arugula,Eruca vesicaria,Africa,"Spring, Fall",7-14 days,40-60 days,10-5-5,6.0-7.0,12,6,0.25
 Ash Gourd,Benincasa hispida,Asia,Summer,7-14 days,120-150 days,5-10-10,6.0-6.8,60,48,1
 Asian Greens,Brassica rapa,Asia,"Spring, Fall",7-14 days,45-60 days,10-5-5,6.0-7.0,12,6,0.25
+Asparagus,Asparagus officinalis,Africa,Spring,7-10 days,730-1095 days,5-10-10,6.0-6.8,48,18,1
 Azuki Bean,Vigna angularis,Asia,Summer,7-14 days,90-120 days,5-10-10,6.0-6.8,24,4,1
+Baby Boo Pumpkin,Cucurbita pepo,North America,Summer,7-10 days,90-100 days,5-10-10,6.0-6.8,60,48,1
 Bamboo Shoot,Bambusa vulgaris,Asia,"Spring, Summer",7-14 days,1095-1825 days,10-5-5,6.0-6.5,60,48,1
+Banana Pepper,Capsicum annuum,South America,Summer,7-14 days,70-80 days,5-10-10,6.0-6.8,24,18,0.25
+Banana Squash,Cucurbita maxima,South America,Summer,7-10 days,90-120 days,5-10-10,6.0-6.8,72,48,1
 Basil,Ocimum basilicum,Asia,Summer,5-10 days,60-90 days,10-5-5,6.0-7.0,18,12,0.25
 Bean Sprout,Phaseolus vulgaris,Asia,"Spring, Summer, Fall",3-5 days,7-10 days,5-5-5,6.0-7.0,N/A,N/A,N/A
-Bitter Melon,Momordica charantia,Asia,Summer,7-14 days,65-75 days,5-10-10,5.5-6.7,36,24,0.5
-Bok Choy,Brassica rapa,Asia,"Spring, Fall",7-14 days,45-60 days,10-5-5,6.0-7.0,12,6,0.25
-Burdock Root,Arctium lappa,Asia,"Spring, Fall",7-14 days,120-150 days,5-10-10,6.0-7.0,24,6,0.5
-Chickpeas,Cicer arietinum,Asia,"Spring, Summer",7-14 days,100-120 days,5-10-10,6.0-7.0,24,6,1
-Corms,Colocasia esculenta,Asia,"Spring, Summer",14-21 days,180-240 days,5-10-10,5.5-6.5,36,24,2
-Cucumber,Cucumis sativus,Asia,Summer,7-14 days,55-65 days,5-10-10,6.0-6.8,36,24,0.5
-Cymbopogon,Cymbopogon citratus,Asia,"Spring, Summer",7-14 days,180-270 days,5-5-5,6.0-7.0,24,18,0.25
-Daikon,Raphanus sativus,Asia,"Spring, Fall",7-14 days,50-60 days,5-10-10,6.0-7.0,18,4,0.5
-Eddoe,Colocasia esculenta,Asia,"Spring, Summer",14-21 days,180-240 days,5-10-10,5.5-6.5,36,24,2
-Eggplant,Solanum melongena,Asia,Summer,7-14 days,70-85 days,5-10-10,6.0-6.8,36,24,0.25
-Field Cucumber,Cucumis sativus,Asia,Summer,7-14 days,55-65 days,5-10-10,6.0-6.8,36,24,0.5
-Futsu Squash,Cucurbita moschata,Asia,Summer,7-10 days,90-110 days,5-10-10,6.0-6.8,48,36,1
-Garlic,Allium sativum,Asia,Fall,7-14 days,240-270 days,5-10-10,6.0-7.0,12,6,1
-Ginger,Zingiber officinale,Asia,"Spring, Summer",14-21 days,240-300 days,5-10-10,6.0-6.5,24,12,2
-Japanese Sweet Potato,Ipomoea batatas,Asia,Summer,14-21 days,90-120 days,5-10-10,5.5-6.5,36,12,4
-Kelp,Laminaria,Asia,"Spring, Summer",7-14 days,180-365 days,5-5-5,6.0-7.0,N/A,N/A,N/A
-Konjac,Amorphophallus konjac,Asia,"Spring, Summer",14-21 days,730-1095 days,5-5-5,6.0-7.0,36,24,2
-Lentil,Lens culinaris,Asia,"Spring, Fall",7-14 days,100-120 days,5-10-10,6.0-7.0,18,2,1
-Mung Bean,Vigna radiata,Asia,Summer,7-14 days,90-120 days,5-10-10,6.0-7.0,24,4,1
-Mustard Greens,Brassica juncea,Asia,"Spring, Fall",7-14 days,40-50 days,10-5-5,6.0-7.0,12,6,0.25
-Onion,Allium cepa,Asia,"Spring, Fall",7-14 days,100-120 days,5-10-10,6.0-7.0,12,4,0.5
-Red Onion,Allium cepa,Asia,"Spring, Fall",7-14 days,100-120 days,5-10-10,6.0-7.0,12,4,0.5
-Red Wing Onion,Allium cepa,Asia,"Spring, Fall",7-14 days,100-120 days,5-10-10,6.0-7.0,12,4,0.5
-Scallion,Allium fistulosum,Asia,"Spring, Fall",7-14 days,60-80 days,5-10-10,6.0-7.0,12,2,0.25
-Shallot,Allium cepa,Asia,"Spring, Fall",7-14 days,90-120 days,5-10-10,6.0-7.0,12,6,0.5
-Soybean,Glycine max,Asia,Summer,7-14 days,80-100 days,5-10-10,6.0-7.0,24,4,1
-Spinach,Spinacia oleracea,Asia,"Spring, Fall, Winter",7-14 days,45-50 days,10-5-5,6.0-7.0,12,6,0.5
-Taro,Colocasia esculenta,Asia,"Spring, Summer",14-21 days,180-240 days,5-10-10,5.5-6.5,36,24,2
-Tat Soi,Brassica rapa,Asia,"Spring, Fall",7-14 days,45-60 days,10-5-5,6.0-7.0,12,6,0.25
-Torpedo Onion,Allium cepa,Asia,"Spring, Fall",7-14 days,100-120 days,5-10-10,6.0-7.0,12,4,0.5
-Ube,Dioscorea alata,Asia,Summer,14-21 days,180-300 days,5-10-10,5.5-6.5,48,36,4
-Udupi Mattu Gulla Eggplant,Solanum melongena,Asia,Summer,7-14 days,70-85 days,5-10-10,6.0-6.8,36,24,0.25
-Urad Bean,Vigna mungo,Asia,Summer,7-14 days,90-120 days,5-10-10,6.0-7.0,24,4,1
-Vidalia Onion,Allium cepa,Asia,"Spring, Fall",7-14 days,100-120 days,5-10-10,6.0-7.0,12,4,0.5
-Wasabi,Eutrema japonicum,Asia,"Spring, Fall",14-21 days,540-720 days,5-5-5,6.0-7.0,12,8,0.25
-Water Chestnut,Eleocharis dulcis,Asia,"Spring, Summer",14-21 days,180-240 days,5-10-10,5.5-6.5,24,12,1
-Xà Lách,Lactuca sativa,Asia,"Spring, Fall",7-14 days,45-60 days,10-5-5,6.0-7.0,12,8,0.25
-Xi Lan Hua,Brassica oleracea,Asia,"Spring, Fall",7-14 days,60-80 days,10-5-5,6.0-7.0,18,12,0.5
-Xi Yang Ca,Brassica rapa,Asia,"Spring, Fall",7-14 days,45-60 days,10-5-5,6.0-7.0,12,6,0.25
-Yellow Onion,Allium cepa,Asia,"Spring, Fall",7-14 days,100-120 days,5-10-10,6.0-7.0,12,4,0.5
-Jicama,Pachyrhizus erosus,Central America,Summer,14-21 days,150-180 days,5-10-10,6.0-7.0,24,12,1
-Tomatillo,Physalis philadelphica,Central America,Summer,7-14 days,75-100 days,5-10-10,6.0-6.8,36,24,0.25
 Beet,Beta vulgaris,Europe,"Spring, Fall",5-10 days,50-70 days,5-10-10,6.0-7.0,12,4,0.5
 Belgian Endive,Cichorium intybus,Europe,"Spring, Fall",14-21 days,150-180 days,5-10-10,6.0-7.0,18,6,0.25
-Bintje Potato,Solanum tuberosum,Europe,"Spring",14-21 days,90-120 days,10-10-10,4.8-5.5,36,12,4
+Bell Pepper,Capsicum annuum,South America,Summer,7-14 days,70-90 days,5-10-10,6.0-6.8,24,18,0.25
+Bintje Potato,Solanum tuberosum,Europe,Spring,14-21 days,90-120 days,10-10-10,4.8-5.5,36,12,4
+Bitter Melon,Momordica charantia,Asia,Summer,7-14 days,65-75 days,5-10-10,5.5-6.7,36,24,0.5
+Black Bean,Phaseolus vulgaris,South America,Summer,7-14 days,85-100 days,5-10-10,6.0-7.0,24,4,1
 Black Radish,Raphanus sativus,Europe,"Spring, Fall",5-10 days,55-70 days,5-10-10,6.0-7.0,12,4,0.5
 Black Salsify,Scorzonera hispanica,Europe,"Spring, Fall",14-21 days,120-150 days,5-10-10,6.0-7.0,18,6,0.5
+Black-Eyed Pea,Vigna unguiculata,Africa,Summer,7-14 days,70-90 days,5-10-10,6.0-7.0,24,4,1
+Bok Choy,Brassica rapa,Asia,"Spring, Fall",7-14 days,45-60 days,10-5-5,6.0-7.0,12,6,0.25
+Boniato,Ipomoea batatas,South America,Summer,14-21 days,90-120 days,5-10-10,5.5-6.5,36,12,4
 Borage,Borago officinalis,Europe,"Spring, Summer",7-14 days,60-80 days,5-5-5,6.0-7.0,18,12,0.25
 Borlotti Bean,Phaseolus vulgaris,Europe,Summer,7-14 days,70-90 days,5-10-10,6.0-7.0,24,4,1
+Boston Morrow Squash,Cucurbita maxima,North America,Summer,7-10 days,90-110 days,5-10-10,6.0-6.8,60,48,1
 Broad Beans,Vicia faba,Europe,"Spring, Fall",7-14 days,80-100 days,5-10-10,6.0-7.0,24,8,1
+Broad-Leaf Arrowhead,Sagittaria latifolia,North America,"Spring, Summer",14-21 days,90-120 days,5-10-10,6.0-7.0,24,12,1
 Broccoflower,Brassica oleracea,Europe,"Spring, Fall",7-14 days,70-90 days,10-5-5,6.0-7.0,24,18,0.5
 Broccoli,Brassica oleracea,Europe,"Spring, Fall",7-14 days,60-100 days,10-10-10,6.0-7.0,24,18,0.5
 Broccolini,Brassica oleracea,Europe,"Spring, Fall",7-14 days,60-80 days,10-5-5,6.0-7.0,18,12,0.5
 Brussels Sprout,Brassica oleracea,Europe,"Fall, Winter",7-14 days,90-120 days,10-10-10,6.0-7.0,24,18,0.5
+Burdock Root,Arctium lappa,Asia,"Spring, Fall",7-14 days,120-150 days,5-10-10,6.0-7.0,24,6,0.5
+Butter Bean,Phaseolus lunatus,South America,Summer,7-14 days,75-90 days,5-10-10,6.0-7.0,24,4,1
 Butterhead Lettuce,Lactuca sativa,Europe,"Spring, Fall",7-14 days,50-60 days,10-5-5,6.0-7.0,12,8,0.25
+Butternut Squash,Cucurbita moschata,North America,Summer,7-10 days,85-110 days,5-10-10,6.0-6.8,60,36,1
 Cabbage,Brassica oleracea,Europe,"Spring, Fall",7-14 days,80-120 days,10-5-5,6.0-7.0,24,18,0.5
 Cannellini Bean,Phaseolus vulgaris,Europe,Summer,7-14 days,70-90 days,5-10-10,6.0-7.0,24,4,1
 Caraway,Carum carvi,Europe,"Spring, Fall",7-14 days,120-150 days,5-5-5,6.0-7.0,18,12,0.25
+Carnival Squash,Cucurbita pepo,North America,Summer,7-10 days,80-100 days,5-10-10,6.0-6.8,48,36,1
 Carrot,Daucus carota,Europe,"Spring, Fall",7-14 days,70-80 days,5-10-10,6.0-6.8,12,2,0.25
 Cauliflower,Brassica oleracea,Europe,"Spring, Fall",7-14 days,70-100 days,10-5-5,6.0-7.0,24,18,0.5
+Cayenne Pepper,Capsicum annuum,South America,Summer,7-14 days,75-85 days,5-10-10,6.0-6.8,24,18,0.25
 Celeriac,Apium graveolens,Europe,"Spring, Fall",14-21 days,120-150 days,5-10-10,6.0-7.0,18,8,0.25
 Celery,Apium graveolens,Europe,"Spring, Fall",14-21 days,120-150 days,5-10-10,6.0-7.0,18,8,0.25
 Chamomile,Matricaria chamomilla,Europe,"Spring, Summer",7-14 days,60-90 days,5-5-5,6.0-7.0,12,6,0.25
 Chard,Beta vulgaris,Europe,"Spring, Fall, Winter",7-14 days,50-60 days,10-5-5,6.0-7.0,18,12,0.5
 Cheddar Cauliflower,Brassica oleracea,Europe,"Spring, Fall",7-14 days,70-100 days,10-5-5,6.0-7.0,24,18,0.5
+Cherry Pepper,Capsicum annuum,South America,Summer,7-14 days,70-80 days,5-10-10,6.0-6.8,24,18,0.25
+Chickpeas,Cicer arietinum,Asia,"Spring, Summer",7-14 days,100-120 days,5-10-10,6.0-7.0,24,6,1
+Chili Pepper,Capsicum annuum,South America,Summer,7-14 days,70-90 days,5-10-10,6.0-6.8,24,18,0.25
 Chives,Allium schoenoprasum,Europe,"Spring, Summer, Fall",7-14 days,60-90 days,5-5-5,6.0-7.0,12,6,0.25
+Collard Greens,Brassica oleracea,North America,"Spring, Fall, Winter",7-14 days,60-75 days,10-5-5,6.0-7.0,24,18,0.5
 Coriander,Coriandrum sativum,Europe,"Spring, Fall",7-14 days,45-70 days,5-5-5,6.0-7.0,12,6,0.25
+Corms,Colocasia esculenta,Asia,"Spring, Summer",14-21 days,180-240 days,5-10-10,5.5-6.5,36,24,2
+Corn,Zea mays,North America,Summer,7-14 days,60-100 days,5-10-10,6.0-6.8,36,12,1
+Cucumber,Cucumis sativus,Asia,Summer,7-14 days,55-65 days,5-10-10,6.0-6.8,36,24,0.5
+Cymbopogon,Cymbopogon citratus,Asia,"Spring, Summer",7-14 days,180-270 days,5-5-5,6.0-7.0,24,18,0.25
+Daikon,Raphanus sativus,Asia,"Spring, Fall",7-14 days,50-60 days,5-10-10,6.0-7.0,18,4,0.5
+Delicata,Cucurbita pepo,North America,Summer,7-10 days,85-100 days,5-10-10,6.0-6.8,48,36,1
+Dickinson Pumpkin,Cucurbita moschata,North America,Summer,7-10 days,90-120 days,5-10-10,6.0-6.8,72,48,1
 Dill,Anethum graveolens,Europe,"Spring, Summer",7-14 days,70-90 days,5-5-5,6.0-7.0,18,12,0.25
+Eddoe,Colocasia esculenta,Asia,"Spring, Summer",14-21 days,180-240 days,5-10-10,5.5-6.5,36,24,2
+Eggplant,Solanum melongena,Asia,Summer,7-14 days,70-85 days,5-10-10,6.0-6.8,36,24,0.25
 Endive,Cichorium endivia,Europe,"Spring, Fall",7-14 days,85-100 days,10-5-5,6.0-7.0,18,12,0.25
 Fat Hen,Chenopodium album,Europe,"Spring, Summer",7-14 days,60-80 days,5-5-5,6.0-7.0,18,12,0.25
 Fava Bean,Vicia faba,Europe,"Spring, Fall",7-14 days,80-100 days,5-10-10,6.0-7.0,24,8,1
 Fayot Bean,Phaseolus vulgaris,Europe,Summer,7-14 days,70-90 days,5-10-10,6.0-7.0,24,4,1
 Fennel,Foeniculum vulgare,Europe,"Spring, Fall",7-14 days,90-115 days,5-5-5,6.0-7.0,18,12,0.25
+Fiddlehead,Matteuccia struthiopteris,North America,Spring,14-21 days,730-1095 days,5-5-5,6.0-7.0,36,24,1
+Field Cucumber,Cucumis sativus,Asia,Summer,7-14 days,55-65 days,5-10-10,6.0-6.8,36,24,0.5
 Fiorentino Tomato,Solanum lycopersicum,Europe,Summer,7-14 days,70-85 days,5-10-5,6.0-6.8,36,24,0.5
 Flat Beans,Phaseolus vulgaris,Europe,Summer,7-14 days,60-75 days,5-10-10,6.0-7.0,24,4,1
 Flat Italian Onion,Allium cepa,Europe,"Spring, Fall",7-14 days,100-120 days,5-10-10,6.0-7.0,12,4,0.5
+Flat White Boer Pumpkin,Cucurbita maxima,North America,Summer,7-10 days,90-120 days,5-10-10,6.0-6.8,72,48,1
+Flint Corn,Zea mays indurata,North America,Summer,7-14 days,90-120 days,5-10-10,6.0-6.8,36,12,1
+Fluted Pumpkin,Telfairia occidentalis,Africa,Summer,7-14 days,90-120 days,5-10-10,6.0-7.0,60,48,1
 French Bean,Phaseolus vulgaris,Europe,Summer,7-14 days,60-75 days,5-10-10,6.0-7.0,24,4,1
 French Sorrel,Rumex scutatus,Europe,"Spring, Summer, Fall",7-14 days,60-90 days,5-5-5,6.0-7.0,18,12,0.25
 Frisée,Cichorium endivia,Europe,"Spring, Fall",7-14 days,85-100 days,10-5-5,6.0-7.0,18,12,0.25
-German Butterball Potato,Solanum tuberosum,Europe,"Spring",14-21 days,90-120 days,10-10-10,4.8-5.5,36,12,4
+Futsu Squash,Cucurbita moschata,Asia,Summer,7-10 days,90-110 days,5-10-10,6.0-6.8,48,36,1
+Garlic,Allium sativum,Asia,Fall,7-14 days,240-270 days,5-10-10,6.0-7.0,12,6,1
+Gem Squash,Cucurbita pepo,North America,Summer,7-10 days,80-100 days,5-10-10,6.0-6.8,48,36,1
+German Butterball Potato,Solanum tuberosum,Europe,Spring,14-21 days,90-120 days,10-10-10,4.8-5.5,36,12,4
 Gigante Bean,Phaseolus coccineus,Europe,Summer,7-14 days,90-120 days,5-10-10,6.0-7.0,36,8,1
+Ginger,Zingiber officinale,Asia,"Spring, Summer",14-21 days,240-300 days,5-10-10,6.0-6.5,24,12,2
+Gold rush Squash,Cucurbita pepo,North America,Summer,7-10 days,80-100 days,5-10-10,6.0-6.8,48,36,1
+Great Northern Bean,Phaseolus vulgaris,North America,Summer,7-14 days,70-90 days,5-10-10,6.0-7.0,24,4,1
+Green Bean,Phaseolus vulgaris,South America,Summer,7-14 days,50-60 days,5-10-10,6.0-7.0,24,4,1
+Habanero Pepper,Capsicum chinense,South America,Summer,7-14 days,90-120 days,5-10-10,6.0-6.8,24,18,0.25
+Honey Bear Squash,Cucurbita pepo,North America,Summer,7-10 days,85-100 days,5-10-10,6.0-6.8,48,36,1
+Honeynut Squash,Cucurbita moschata,North America,Summer,7-10 days,85-110 days,5-10-10,6.0-6.8,60,36,1
+Hot Pepper,Capsicum annuum,South America,Summer,7-14 days,70-90 days,5-10-10,6.0-6.8,24,18,0.25
+Hubbard Squash,Cucurbita maxima,North America,Summer,7-10 days,90-120 days,5-10-10,6.0-6.8,72,48,1
+Jalapeño,Capsicum annuum,South America,Summer,7-14 days,70-80 days,5-10-10,6.0-6.8,24,18,0.25
+Japanese Sweet Potato,Ipomoea batatas,Asia,Summer,14-21 days,90-120 days,5-10-10,5.5-6.5,36,12,4
+Jerusalem Artichoke,Helianthus tuberosus,North America,"Spring, Fall",14-21 days,120-150 days,5-10-10,6.0-7.0,36,24,2
+Jicama,Pachyrhizus erosus,Central America,Summer,14-21 days,150-180 days,5-10-10,6.0-7.0,24,12,1
 Kale,Brassica oleracea,Europe,"Spring, Fall, Winter",7-14 days,50-65 days,10-5-5,6.0-7.0,18,12,0.5
+Kelp,Laminaria,Asia,"Spring, Summer",7-14 days,180-365 days,5-5-5,6.0-7.0,N/A,N/A,N/A
+Kidney Bean,Phaseolus vulgaris,South America,Summer,7-14 days,85-100 days,5-10-10,6.0-7.0,24,4,1
 Kohlrabi,Brassica oleracea,Europe,"Spring, Fall",7-14 days,55-70 days,10-5-5,6.0-7.0,18,8,0.25
-Lavender,Lavandula,Europe,"Spring",14-21 days,730-1095 days,5-5-5,6.0-7.0,24,18,0.25
+Konjac,Amorphophallus konjac,Asia,"Spring, Summer",14-21 days,730-1095 days,5-5-5,6.0-7.0,36,24,2
+Lavender,Lavandula,Europe,Spring,14-21 days,730-1095 days,5-5-5,6.0-7.0,24,18,0.25
 Leek,Allium ampeloprasum,Europe,"Spring, Fall",7-14 days,120-150 days,5-10-10,6.0-7.0,12,6,0.5
+Lentil,Lens culinaris,Asia,"Spring, Fall",7-14 days,100-120 days,5-10-10,6.0-7.0,18,2,1
 Lettuce,Lactuca sativa,Europe,"Spring, Fall",7-14 days,45-60 days,10-5-5,6.0-7.0,12,8,0.25
+Lima bean,Phaseolus lunatus,South America,Summer,7-14 days,75-90 days,5-10-10,6.0-7.0,24,4,1
+Lumina Pumpkin,Cucurbita pepo,North America,Summer,7-10 days,90-120 days,5-10-10,6.0-6.8,72,48,1
+Malanga,Xanthosoma sagittifolium,South America,"Spring, Summer",14-21 days,240-300 days,5-10-10,5.5-6.5,36,24,2
 Mallow,Malva,Europe,"Spring, Summer",7-14 days,60-90 days,5-5-5,6.0-7.0,18,12,0.25
 Mangelwurzel,Beta vulgaris,Europe,"Spring, Fall",7-14 days,90-120 days,5-10-10,6.0-7.0,18,6,0.5
 Mangetout,Pisum sativum,Europe,"Spring, Fall",7-14 days,60-70 days,5-10-10,6.0-7.0,18,2,1
 Marjoram,Origanum majorana,Europe,"Spring, Summer",7-14 days,60-90 days,5-5-5,6.0-7.0,12,6,0.25
-Mushroom,Agaricus bisporus,Europe,"Year-round",14-21 days,60-90 days,5-5-5,6.0-7.0,N/A,N/A,N/A
+Miner’s Lettuce,Claytonia perfoliata,North America,"Spring, Fall",7-14 days,40-60 days,10-5-5,6.0-7.0,12,6,0.25
+Molokhia,Corchorus olitorius,Africa,Summer,7-14 days,60-80 days,10-5-5,6.0-7.0,18,12,0.25
+Morels,Morchella,North America,Spring,14-21 days,N/A,5-5-5,6.0-7.0,N/A,N/A,N/A
+Mung Bean,Vigna radiata,Asia,Summer,7-14 days,90-120 days,5-10-10,6.0-7.0,24,4,1
+Mushroom,Agaricus bisporus,Europe,Year-round,14-21 days,60-90 days,5-5-5,6.0-7.0,N/A,N/A,N/A
+Mustard Greens,Brassica juncea,Asia,"Spring, Fall",7-14 days,40-50 days,10-5-5,6.0-7.0,12,6,0.25
+Navy Bean,Phaseolus vulgaris,North America,Summer,7-14 days,70-90 days,5-10-10,6.0-7.0,24,4,1
 Nettle,Urtica dioica,Europe,"Spring, Summer",7-14 days,60-90 days,5-5-5,6.0-7.0,24,18,0.25
+New Potato,Solanum tuberosum,South America,Spring,14-21 days,70-90 days,10-10-10,4.8-5.5,36,12,4
+New Zealand Spinach,Tetragonia tetragonioides,Oceania,"Spring, Summer, Fall",7-14 days,55-70 days,10-5-5,6.0-7.0,18,12,0.5
 Oak Leaf Lettuce,Lactuca sativa,Europe,"Spring, Fall",7-14 days,45-60 days,10-5-5,6.0-7.0,12,8,0.25
+Okra,Abelmoschus esculentus,Africa,Summer,7-14 days,55-65 days,5-10-10,6.0-7.0,24,12,0.5
+Onion,Allium cepa,Asia,"Spring, Fall",7-14 days,100-120 days,5-10-10,6.0-7.0,12,4,0.5
+Orange Bell Pepper,Capsicum annuum,South America,Summer,7-14 days,70-90 days,5-10-10,6.0-6.8,24,18,0.25
+Orange Tomato,Solanum lycopersicum,South America,Summer,7-14 days,75-85 days,5-10-5,6.0-6.8,36,24,0.5
 Oregano,Origanum vulgare,Europe,"Spring, Summer",7-14 days,90-120 days,5-5-5,6.0-7.0,18,12,0.25
+Paprika,Capsicum annuum,South America,Summer,7-14 days,90-120 days,5-10-10,6.0-6.8,24,18,0.25
 Parsnip,Pastinaca sativa,Europe,"Spring, Fall",14-21 days,120-180 days,5-10-10,6.0-7.0,18,6,0.5
+Pattypan Squash,Cucurbita pepo,North America,Summer,7-10 days,50-70 days,5-10-10,6.0-6.8,36,24,1
 Pea,Pisum sativum,Europe,"Spring, Fall",7-14 days,60-70 days,5-10-10,6.0-7.0,18,2,1
-Purple Asparagus,Asparagus officinalis,Europe,"Spring",7-10 days,730-1095 days,5-10-10,6.0-6.8,48,18,1
+Peanut,Arachis hypogaea,South America,Summer,7-14 days,100-130 days,5-10-10,6.0-6.5,24,6,1
+Pepper,Capsicum annuum,South America,Summer,7-14 days,70-90 days,5-10-10,6.0-6.8,24,18,0.25
+Peruvian Purple Potato,Solanum tuberosum,South America,Spring,14-21 days,90-120 days,10-10-10,4.8-5.5,36,12,4
+Pie Pumpkin,Cucurbita pepo,North America,Summer,7-10 days,90-120 days,5-10-10,6.0-6.8,72,48,1
+Pinto Bean,Phaseolus vulgaris,South America,Summer,7-14 days,85-100 days,5-10-10,6.0-7.0,24,4,1
+Potato,Solanum tuberosum,South America,Spring,14-21 days,90-120 days,10-10-10,4.8-5.5,36,12,4
+Purple Asparagus,Asparagus officinalis,Europe,Spring,7-10 days,730-1095 days,5-10-10,6.0-6.8,48,18,1
+Purple Bell Pepper,Capsicum annuum,South America,Summer,7-14 days,70-90 days,5-10-10,6.0-6.8,24,18,0.25
 Purple Brussels Sprout,Brassica oleracea,Europe,"Fall, Winter",7-14 days,90-120 days,10-10-10,6.0-7.0,24,18,0.5
 Purple Cabbage,Brassica oleracea,Europe,"Spring, Fall",7-14 days,80-120 days,10-5-5,6.0-7.0,24,18,0.5
 Purple Carrot,Daucus carota,Europe,"Spring, Fall",7-14 days,70-80 days,5-10-10,6.0-6.8,12,2,0.25
 Purple Cauliflower,Brassica oleracea,Europe,"Spring, Fall",7-14 days,70-100 days,10-5-5,6.0-7.0,24,18,0.5
+Purple Corn,Zea mays,South America,Summer,7-14 days,90-120 days,5-10-10,6.0-6.8,36,12,1
 Purple Kale,Brassica oleracea,Europe,"Spring, Fall, Winter",7-14 days,50-65 days,10-5-5,6.0-7.0,18,12,0.5
 Purple Lettuce,Lactuca sativa,Europe,"Spring, Fall",7-14 days,45-60 days,10-5-5,6.0-7.0,12,8,0.25
+Purple Majesty Potato,Solanum tuberosum,South America,Spring,14-21 days,90-120 days,10-10-10,4.8-5.5,36,12,4
 Purple Radish,Raphanus sativus,Europe,"Spring, Fall",5-10 days,55-70 days,5-10-10,6.0-7.0,12,4,0.5
-Radicchio,Cichorium intybus,Europe,"Spring, Fall",7-14 days,85-100 days,10-5-5,6.0-7.0,18,12,0.25
-Radish,Raphanus sativus,Europe,"Spring, Fall",5-10 days,20-30 days,5-10-10,6.0-7.0,6,2,0.5
-Red Cabbage,Brassica oleracea,Europe,"Spring, Fall",7-14 days,80-120 days,10-5-5,6.0-7.0,24,18,0.5
-Red Carrot,Daucus carota,Europe,"Spring, Fall",7-14 days,70-80 days,5-10-10,6.0-6.8,12,2,0.25
-Red Russian Kale,Brassica oleracea,Europe,"Spring, Fall, Winter",7-14 days,50-65 days,10-5-5,6.0-7.0,18,12,0.5
-Rhubarb,Rheum rhabarbarum,Europe,"Spring",14-21 days,730-1095 days,5-10-10,6.0-7.0,48,36,1
-Rosemary,Salvia rosmarinus,Europe,"Spring",14-21 days,365-730 days,5-5-5,6.0-7.0,24,18,0.25
-Runner Bean,Phaseolus coccineus,Europe,Summer,7-14 days,90-120 days,5-10-10,6.0-7.0,36,8,1
-Rutabaga,Brassica napus,Europe,"Spring, Fall",7-14 days,90-120 days,5-10-10,6.0-7.0,18,8,0.5
-Salsify,Tragopogon porrifolius,Europe,"Spring, Fall",14-21 days,120-150 days,5-10-10,6.0-7.0,18,6,0.5
-Savoy Cabbage,Brassica oleracea,Europe,"Spring, Fall",7-14 days,80-120 days,10-5-5,6.0-7.0,24,18,0.5
-Skirret,Sium sisarum,Europe,"Spring, Fall",14-21 days,120-150 days,5-10-10,6.0-7.0,18,6,0.5
-Snap Pea,Pisum sativum,Europe,"Spring, Fall",7-14 days,60-70 days,5-10-10,6.0-7.0,18,2,1
-Split Pea,Pisum sativum,Europe,"Spring, Fall",7-14 days,60-70 days,5-10-10,6.0-7.0,18,2,1
-Thyme,Thymus vulgaris,Europe,"Spring",14-21 days,365-730 days,5-5-5,6.0-7.0,12,6,0.25
-Turnip,Brassica rapa,Europe,"Spring, Fall",7-14 days,50-60 days,5-10-10,6.0-7.0,12,4,0.5
-Upland Cress,Barbarea verna,Europe,"Spring, Fall",7-14 days,50-60 days,10-5-5,6.0-7.0,12,6,0.25
-Watercress,Nasturtium officinale,Europe,"Spring, Fall",7-14 days,55-70 days,10-5-5,6.0-7.0,12,6,0.25
-White Asparagus,Asparagus officinalis,Europe,"Spring",7-10 days,730-1095 days,5-10-10,6.0-6.8,48,18,1
-Acorn Squash,Cucurbita pepo,North America,Summer,7-10 days,80-100 days,5-10-10,6.0-6.8,48,36,1
-Arikara Squash,Cucurbita maxima,North America,Summer,7-10 days,90-110 days,5-10-10,6.0-6.8,60,48,1
-Baby Boo Pumpkin,Cucurbita pepo,North America,Summer,7-10 days,90-100 days,5-10-10,6.0-6.8,60,48,1
-Boston Morrow Squash,Cucurbita maxima,North America,Summer,7-10 days,90-110 days,5-10-10,6.0-6.8,60,48,1
-Broad-Leaf Arrowhead,Sagittaria latifolia,North America,"Spring, Summer",14-21 days,90-120 days,5-10-10,6.0-7.0,24,12,1
-Butternut Squash,Cucurbita moschata,North America,Summer,7-10 days,85-110 days,5-10-10,6.0-6.8,60,36,1
-Carnival Squash,Cucurbita pepo,North America,Summer,7-10 days,80-100 days,5-10-10,6.0-6.8,48,36,1
-Collard Greens,Brassica oleracea,North America,"Spring, Fall, Winter",7-14 days,60-75 days,10-5-5,6.0-7.0,24,18,0.5
-Corn,Zea mays,North America,Summer,7-14 days,60-100 days,5-10-10,6.0-6.8,36,12,1
-Delicata,Cucurbita pepo,North America,Summer,7-10 days,85-100 days,5-10-10,6.0-6.8,48,36,1
-Dickinson Pumpkin,Cucurbita moschata,North America,Summer,7-10 days,90-120 days,5-10-10,6.0-6.8,72,48,1
-Fiddlehead,Matteuccia struthiopteris,North America,"Spring",14-21 days,730-1095 days,5-5-5,6.0-7.0,36,24,1
-Flat White Boer Pumpkin,Cucurbita maxima,North America,Summer,7-10 days,90-120 days,5-10-10,6.0-6.8,72,48,1
-Flint Corn,Zea mays indurata,North America,Summer,7-14 days,90-120 days,5-10-10,6.0-6.8,36,12,1
-Gem Squash,Cucurbita pepo,North America,Summer,7-10 days,80-100 days,5-10-10,6.0-6.8,48,36,1
-Gold rush Squash,Cucurbita pepo,North America,Summer,7-10 days,80-100 days,5-10-10,6.0-6.8,48,36,1
-Great Northern Bean,Phaseolus vulgaris,North America,Summer,7-14 days,70-90 days,5-10-10,6.0-7.0,24,4,1
-Honey Bear Squash,Cucurbita pepo,North America,Summer,7-10 days,85-100 days,5-10-10,6.0-6.8,48,36,1
-Honeynut Squash,Cucurbita moschata,North America,Summer,7-10 days,85-110 days,5-10-10,6.0-6.8,60,36,1
-Hubbard Squash,Cucurbita maxima,North America,Summer,7-10 days,90-120 days,5-10-10,6.0-6.8,72,48,1
-Jerusalem Artichoke,Helianthus tuberosus,North America,"Spring, Fall",14-21 days,120-150 days,5-10-10,6.0-7.0,36,24,2
-Lumina Pumpkin,Cucurbita pepo,North America,Summer,7-10 days,90-120 days,5-10-10,6.0-6.8,72,48,1
-Miner’s Lettuce,Claytonia perfoliata,North America,"Spring, Fall",7-14 days,40-60 days,10-5-5,6.0-7.0,12,6,0.25
-Morels,Morchella,North America,"Spring",14-21 days,N/A,5-5-5,6.0-7.0,N/A,N/A,N/A
-Navy Bean,Phaseolus vulgaris,North America,Summer,7-14 days,70-90 days,5-10-10,6.0-7.0,24,4,1
-Pattypan Squash,Cucurbita pepo,North America,Summer,7-10 days,50-70 days,5-10-10,6.0-6.8,36,24,1
-Pie Pumpkin,Cucurbita pepo,North America,Summer,7-10 days,90-120 days,5-10-10,6.0-6.8,72,48,1
-Red Kuri Squash,Cucurbita maxima,North America,Summer,7-10 days,90-110 days,5-10-10,6.0-6.8,60,48,1
-Red Warty Thing Squash,Cucurbita maxima,North America,Summer,7-10 days,90-120 days,5-10-10,6.0-6.8,72,48,1
-Spaghetti Squash,Cucurbita pepo,North America,Summer,7-10 days,90-100 days,5-10-10,6.0-6.8,60,36,1
-Squash,Cucurbita,North America,Summer,7-10 days,80-120 days,5-10-10,6.0-6.8,60,36,1
-Sweet Corn,Zea mays,North America,Summer,7-14 days,60-90 days,5-10-10,6.0-6.8,36,12,1
-Topinambur,Helianthus tuberosus,North America,"Spring, Fall",14-21 days,120-150 days,5-10-10,6.0-7.0,36,24,2
-White Corn,Zea mays,North America,Summer,7-14 days,60-90 days,5-10-10,6.0-6.8,36,12,1
-Yellow Summer Squash,Cucurbita pepo,North America,Summer,7-10 days,50-60 days,5-10-10,6.0-6.8,36,24,1
-Zephyr Squash,Cucurbita pepo,North America,Summer,7-10 days,50-60 days,5-10-10,6.0-6.8,36,24,1
-Zucchini,Cucurbita pepo,North America,Summer,7-10 days,50-60 days,5-10-10,6.0-6.8,36,24,1
-New Zealand Spinach,Tetragonia tetragonioides,Oceania,"Spring, Summer, Fall",7-14 days,55-70 days,10-5-5,6.0-7.0,18,12,0.5
-Ahipa,Pachyrhizus ahipa,South America,Summer,7-14 days,120-150 days,5-10-10,6.0-7.0,24,12,1
-All Blue Potato,Solanum tuberosum,South America,"Spring",14-21 days,90-120 days,10-10-10,4.8-5.5,36,12,4
-Arrowroot,Maranta arundinacea,South America,"Spring, Summer",14-21 days,240-300 days,5-10-10,5.5-6.5,36,24,2
-Banana Pepper,Capsicum annuum,South America,Summer,7-14 days,70-80 days,5-10-10,6.0-6.8,24,18,0.25
-Banana Squash,Cucurbita maxima,South America,Summer,7-10 days,90-120 days,5-10-10,6.0-6.8,72,48,1
-Bell Pepper,Capsicum annuum,South America,Summer,7-14 days,70-90 days,5-10-10,6.0-6.8,24,18,0.25
-Black Bean,Phaseolus vulgaris,South America,Summer,7-14 days,85-100 days,5-10-10,6.0-7.0,24,4,1
-Boniato,Ipomoea batatas,South America,Summer,14-21 days,90-120 days,5-10-10,5.5-6.5,36,12,4
-Butter Bean,Phaseolus lunatus,South America,Summer,7-14 days,75-90 days,5-10-10,6.0-7.0,24,4,1
-Cayenne Pepper,Capsicum annuum,South America,Summer,7-14 days,75-85 days,5-10-10,6.0-6.8,24,18,0.25
-Cherry Pepper,Capsicum annuum,South America,Summer,7-14 days,70-80 days,5-10-10,6.0-6.8,24,18,0.25
-Chili Pepper,Capsicum annuum,South America,Summer,7-14 days,70-90 days,5-10-10,6.0-6.8,24,18,0.25
-Green Bean,Phaseolus vulgaris,South America,Summer,7-14 days,50-60 days,5-10-10,6.0-7.0,24,4,1
-Habanero Pepper,Capsicum chinense,South America,Summer,7-14 days,90-120 days,5-10-10,6.0-6.8,24,18,0.25
-Hot Pepper,Capsicum annuum,South America,Summer,7-14 days,70-90 days,5-10-10,6.0-6.8,24,18,0.25
-Jalapeño,Capsicum annuum,South America,Summer,7-14 days,70-80 days,5-10-10,6.0-6.8,24,18,0.25
-Kidney Bean,Phaseolus vulgaris,South America,Summer,7-14 days,85-100 days,5-10-10,6.0-7.0,24,4,1
-Lima bean,Phaseolus lunatus,South America,Summer,7-14 days,75-90 days,5-10-10,6.0-7.0,24,4,1
-Malanga,Xanthosoma sagittifolium,South America,"Spring, Summer",14-21 days,240-300 days,5-10-10,5.5-6.5,36,24,2
-New Potato,Solanum tuberosum,South America,"Spring",14-21 days,70-90 days,10-10-10,4.8-5.5,36,12,4
-Orange Bell Pepper,Capsicum annuum,South America,Summer,7-14 days,70-90 days,5-10-10,6.0-6.8,24,18,0.25
-Orange Tomato,Solanum lycopersicum,South America,Summer,7-14 days,75-85 days,5-10-5,6.0-6.8,36,24,0.5
-Paprika,Capsicum annuum,South America,Summer,7-14 days,90-120 days,5-10-10,6.0-6.8,24,18,0.25
-Peanut,Arachis hypogaea,South America,Summer,7-14 days,100-130 days,5-10-10,6.0-6.5,24,6,1
-Pepper,Capsicum annuum,South America,Summer,7-14 days,70-90 days,5-10-10,6.0-6.8,24,18,0.25
-Peruvian Purple Potato,Solanum tuberosum,South America,"Spring",14-21 days,90-120 days,10-10-10,4.8-5.5,36,12,4
-Pinto Bean,Phaseolus vulgaris,South America,Summer,7-14 days,85-100 days,5-10-10,6.0-7.0,24,4,1
-Potato,Solanum tuberosum,South America,"Spring",14-21 days,90-120 days,10-10-10,4.8-5.5,36,12,4
-Purple Bell Pepper,Capsicum annuum,South America,Summer,7-14 days,70-90 days,5-10-10,6.0-6.8,24,18,0.25
-Purple Corn,Zea mays,South America,Summer,7-14 days,90-120 days,5-10-10,6.0-6.8,36,12,1
-Purple Majesty Potato,Solanum tuberosum,South America,"Spring",14-21 days,90-120 days,10-10-10,4.8-5.5,36,12,4
 Purple String Bean,Phaseolus vulgaris,South America,Summer,7-14 days,50-60 days,5-10-10,6.0-7.0,24,4,1
 Purple Tomato,Solanum lycopersicum,South America,Summer,7-14 days,75-85 days,5-10-5,6.0-6.8,36,24,0.5
+Radicchio,Cichorium intybus,Europe,"Spring, Fall",7-14 days,85-100 days,10-5-5,6.0-7.0,18,12,0.25
+Radish,Raphanus sativus,Europe,"Spring, Fall",5-10 days,20-30 days,5-10-10,6.0-7.0,6,2,0.5
 Red Bell Pepper,Capsicum annuum,South America,Summer,7-14 days,70-90 days,5-10-10,6.0-6.8,24,18,0.25
-Red Bliss Potato,Solanum tuberosum,South America,"Spring",14-21 days,90-120 days,10-10-10,4.8-5.5,36,12,4
-Red Gold Potato,Solanum tuberosum,South America,"Spring",14-21 days,90-120 days,10-10-10,4.8-5.5,36,12,4
-Russian Banana Potato,Solanum tuberosum,South America,"Spring",14-21 days,90-120 days,10-10-10,4.8-5.5,36,12,4
+Red Bliss Potato,Solanum tuberosum,South America,Spring,14-21 days,90-120 days,10-10-10,4.8-5.5,36,12,4
+Red Cabbage,Brassica oleracea,Europe,"Spring, Fall",7-14 days,80-120 days,10-5-5,6.0-7.0,24,18,0.5
+Red Carrot,Daucus carota,Europe,"Spring, Fall",7-14 days,70-80 days,5-10-10,6.0-6.8,12,2,0.25
+Red Gold Potato,Solanum tuberosum,South America,Spring,14-21 days,90-120 days,10-10-10,4.8-5.5,36,12,4
+Red Kuri Squash,Cucurbita maxima,North America,Summer,7-10 days,90-110 days,5-10-10,6.0-6.8,60,48,1
+Red Onion,Allium cepa,Asia,"Spring, Fall",7-14 days,100-120 days,5-10-10,6.0-7.0,12,4,0.5
+Red Russian Kale,Brassica oleracea,Europe,"Spring, Fall, Winter",7-14 days,50-65 days,10-5-5,6.0-7.0,18,12,0.5
+Red Warty Thing Squash,Cucurbita maxima,North America,Summer,7-10 days,90-120 days,5-10-10,6.0-6.8,72,48,1
+Red Wing Onion,Allium cepa,Asia,"Spring, Fall",7-14 days,100-120 days,5-10-10,6.0-7.0,12,4,0.5
+Rhubarb,Rheum rhabarbarum,Europe,Spring,14-21 days,730-1095 days,5-10-10,6.0-7.0,48,36,1
+Rosemary,Salvia rosmarinus,Europe,Spring,14-21 days,365-730 days,5-5-5,6.0-7.0,24,18,0.25
+Runner Bean,Phaseolus coccineus,Europe,Summer,7-14 days,90-120 days,5-10-10,6.0-7.0,36,8,1
+Russian Banana Potato,Solanum tuberosum,South America,Spring,14-21 days,90-120 days,10-10-10,4.8-5.5,36,12,4
+Rutabaga,Brassica napus,Europe,"Spring, Fall]",7-14 days,90-120 days,5-10-10,6.0-7.0,18,8,0.5
+Salsify,Tragopogon porrifolius,Europe,"Spring, Fall",14-21 days,120-150 days,5-10-10,6.0-7.0,18,6,0.5
+Savoy Cabbage,Brassica oleracea,Europe,"Spring, Fall",7-14 days,80-120 days,10-5-5,6.0-7.0,24,18,0.5
+Scallion,Allium fistulosum,Asia,"Spring, Fall",7-14 days,60-80 days,5-10-10,6.0-7.0,12,2,0.25
+Shallot,Allium cepa,Asia,"Spring, Fall",7-14 days,90-120 days,5-10-10,6.0-7.0,12,6,0.5
+Skirret,Sium sisarum,Europe,"Spring, Fall",14-21 days,120-150 days,5-10-10,6.0-7.0,18,6,0.5
+Snap Pea,Pisum sativum,Europe,"Spring, Fall",7-14 days,60-70 days,5-10-10,6.0-7.0,18,2,1
+Soybean,Glycine max,Asia,Summer,7-14 days,80-100 days,5-10-10,6.0-7.0,24,4,1
+Spaghetti Squash,Cucurbita pepo,North America,Summer,7-10 days,90-100 days,5-10-10,6.0-6.8,60,36,1
+Spinach,Spinacia oleracea,Asia,"Spring, Fall, Winter",7-14 days,45-50 days,10-5-5,6.0-7.0,12,6,0.5
+Split Pea,Pisum sativum,Europe,"Spring, Fall",7-14 days,60-70 days,5-10-10,6.0-7.0,18,2,1
+Squash,Cucurbita,North America,Summer,7-10 days,80-120 days,5-10-10,6.0-6.8,60,36,1
 Stokes Purple Sweet Potato,Ipomoea batatas,South America,Summer,14-21 days,90-120 days,5-10-10,5.5-6.5,36,12,4
+Sweet Corn,Zea mays,North America,Summer,7-14 days,60-90 days,5-10-10,6.0-6.8,36,12,1
 Sweet Potato,Ipomoea batatas,South America,Summer,14-21 days,90-120 days,5-10-10,5.5-6.5,36,12,4
 Tabasco Pepper,Capsicum frutescens,South America,Summer,7-14 days,80-100 days,5-10-10,6.0-6.8,24,18,0.25
+Taro,Colocasia esculenta,Asia,"Spring, Summer",14-21 days,180-240 days,5-10-10,5.5-6.5,36,24,2
+Tat Soi,Brassica rapa,Asia,"Spring, Fall",7-14 days,45-60 days,10-5-5,6.0-7.0,12,6,0.25
+Thyme,Thymus vulgaris,Europe,Spring,14-21 days,365-730 days,5-5-5,6.0-7.0,12,6,0.25
+Tomatillo,Physalis philadelphica,Central America,Summer,7-14 days,75-100 days,5-10-10,6.0-6.8,36,24,0.25
 Tomato,Solanum lycopersicum,South America,Summer,7-14 days,60-90 days,5-10-5,6.0-6.8,36,24,0.5
+Topinambur,Helianthus tuberosus,North America,"Spring, Fall",14-21 days,120-150 days,5-10-10,6.0-7.0,36,24,2
+Torpedo Onion,Allium cepa,Asia,"Spring, Fall",7-14 days,100-120 days,5-10-10,6.0-7.0,12,4,0.5
+Turnip,Brassica rapa,Europe,"Spring, Fall",7-14 days,50-60 days,5-10-10,6.0-7.0,12,4,0.5
+Ube,Dioscorea alata,Asia,Summer,14-21 days,180-300 days,5-10-10,5.5-6.5,48,36,4
+Udupi Mattu Gulla Eggplant,Solanum melongena,Asia,Summer,7-14 days,70-85 days,5-10-10,6.0-6.8,36,24,0.25
 Ulluco,Ullucus tuberosus,South America,"Spring, Summer",14-21 days,180-240 days,5-10-10,5.5-6.5,24,12,2
-Vitelotte Potato,Solanum tuberosum,South America,"Spring",14-21 days,90-120 days,10-10-10,4.8-5.5,36,12,4
-Vivaldi Potato,Solanum tuberosum,South America,"Spring",14-21 days,90-120 days,10-10-10,4.8-5.5,36,12,4
+Upland Cress,Barbarea verna,Europe,"Spring, Fall",7-14 days,50-60 days,10-5-5,6.0-7.0,12,6,0.25
+Urad Bean,Vigna mungo,Asia,Summer,7-14 days,90-120 days,5-10-10,6.0-7.0,24,4,1
+Velvet Bean,Mucuna pruriens,Africa,Summer,7-14 days,120-150 days,5-10-10,6.0-7.0,36,24,1
+Vidalia Onion,Allium cepa,Asia,"Spring, Fall",7-14 days,100-120 days,5-10-10,6.0-7.0,12,4,0.5
+Vitelotte Potato,Solanum tuberosum,South America,Spring,14-21 days,90-120 days,10-10-10,4.8-5.5,36,12,4
+Vivaldi Potato,Solanum tuberosum,South America,Spring,14-21 days,90-120 days,10-10-10,4.8-5.5,36,12,4
+Wasabi,Eutrema japonicum,Asia,"Spring, Fall",14-21 days,540-720 days,5-5-5,6.0-7.0,12,8,0.25
+Water Chestnut,Eleocharis dulcis,Asia,"Spring, Summer",14-21 days,180-240 days,5-10-10,5.5-6.5,24,12,1
+Watercress,Nasturtium officinale,Europe,"Spring, Fall",7-14 days,55-70 days,10-5-5,6.0-7.0,12,6,0.25
 Wax Bean,Phaseolus vulgaris,South America,Summer,7-14 days,50-60 days,5-10-10,6.0-7.0,24,4,1
 White 7 Pot Pepper,Capsicum chinense,South America,Summer,7-14 days,120-150 days,5-10-10,6.0-6.8,24,18,0.25
+White Asparagus,Asparagus officinalis,Europe,Spring,7-10 days,730-1095 days,5-10-10,6.0-6.8,48,18,1
 White Bell Pepper,Capsicum annuum,South America,Summer,7-14 days,70-90 days,5-10-10,6.0-6.8,24,18,0.25
+White Corn,Zea mays,North America,Summer,7-14 days,60-90 days,5-10-10,6.0-6.8,36,12,1
+Xà Lách,Lactuca sativa,Asia,"Spring, Fall",7-14 days,45-60 days,10-5-5,6.0-7.0,12,8,0.25
 Xanthosoma Brasiliense,Xanthosoma brasiliense,South America,"Spring, Summer",14-21 days,240-300 days,5-10-10,5.5-6.5,36,24,2
 Xanthosoma Sagittifolium,Xanthosoma sagittifolium,South America,"Spring, Summer",14-21 days,240-300 days,5-10-10,5.5-6.5,36,24,2
+Xi Lan Hua,Brassica oleracea,Asia,"Spring, Fall",7-14 days,60-80 days,10-5-5,6.0-7.0,18,12,0.5
+Xi Yang Ca,Brassica rapa,Asia,"Spring, Fall",7-14 days,45-60 days,10-5-5,6.0-7.0,12,6,0.25
+Yam,Dioscorea,Africa,Summer,14-21 days,180-300 days,5-10-10,5.5-6.5,48,36,4
+Yellow Onion,Allium cepa,Asia,"Spring, Fall",7-14 days,100-120 days,5-10-10,6.0-7.0,12,4,0.5
+Yellow Summer Squash,Cucurbita pepo,North America,Summer,7-10 days,50-60 days,5-10-10,6.0-6.8,36,24,1
 Yellow Tomato,Solanum lycopersicum,South America,Summer,7-14 days,75-85 days,5-10-5,6.0-6.8,36,24,0.5
-Yukon Gold Potato,Solanum tuberosum,South America,"Spring",14-21 days,90-120 days,10-10-10,4.8-5.5,36,12,4
+Yukon Gold Potato,Solanum tuberosum,South America,Spring,14-21 days,90-120 days,10-10-10,4.8-5.5,36,12,4
+Zephyr Squash,Cucurbita pepo,North America,Summer,7-10 days,50-60 days,5-10-10,6.0-6.8,36,24,1
+Zucchini,Cucurbita pepo,North America,Summer,7-10 days,50-60 days,5-10-10,6.0-6.8,36,24,1
