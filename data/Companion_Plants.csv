@@ -1,0 +1,137 @@
+Common Name,Scientific Name,Companion Plants,Soil Benefits,Other Benefits,Row Space (in.),Plant Space (in.),Planting Depth (in.),Inches of Water (Weekly),Water Frequency (days)
+Marigold,Tagetes spp.,"Tomatoes, Peppers, Squash","Suppresses harmful nematodes","Repels beetles/aphids",18,11,0.3,0.5-1,10-14
+Nasturtium,Tropaeolum majus,"Cucumbers, Squash, Tomatoes","Improves moisture retention","Traps aphids",15,12,0.5,1-1.5,5-7
+Sunflower,Helianthus annuus,"Corn, Beans","Deep roots break compacted soil","Attracts pollinators",30,15,1.5,0.5-1,7-10
+Borage,Borago officinalis,"Tomatoes, Strawberries","Adds trace minerals","Deters hornworms",21,12,0.3,1-1.5,5-7
+Lavender,Lavandula spp.,"Broccoli, Cabbage","Improves drainage","Repels moths/fleas",21,21,0.1,0.5-1,10-14
+Calendula,Calendula officinalis,"Tomatoes, Carrots","Attracts beneficial microbes","Edible flowers",15,10,0.3,1-1.5,5-7
+Cosmos,Cosmos bipinnatus,"Squash, Beans","Improves soil structure","Cut flowers",15,15,0.3,0.5-1,7-10
+Alyssum,Lobularia maritima,"Carrots, Lettuce","Prevents erosion","Ground cover",9,6,0.1,1-1.5,5-7
+Carrot,Daucus carota,"Onions, Leeks","Loosens soil","Repels carrot flies",15,3,0.3,1-1.5,5-7
+Beans,Phaseolus vulgaris,"Corn, Cucumbers","Nitrogen fixation","Improves fertility",21,5,1.0,1-1.5,5-7
+Radish,Raphanus sativus,"Carrots, Spinach","Breaks up soil","Fast-growing",9,2,0.5,1-1.5,5-7
+Onion,Allium cepa,"Carrots, Beets","Repels pests","Natural fungicide",15,5,0.5,1-1.5,5-7
+Beets,Beta vulgaris,"Onions, Lettuce","Adds minerals","Dual-purpose (greens)",15,4,0.5,1-1.5,5-7
+Tomato,Solanum lycopersicum,"Basil, Marigold","Nutrient accumulator","Repels hornworms",30,21,0.3,1.5-2,3-5
+Squash,Cucurbita spp.,"Corn, Beans","Weed suppression","Vines shade soil",42,30,1.0,1.5-2,3-5
+Potato,Solanum tuberosum,"Beans, Peas","Improves soil structure","Avoid tomatoes",30,12,3.0,1-1.5,5-7
+Corn,Zea mays,"Beans, Squash","Three Sisters planting","Tall windbreak",30,12,1.5,1.5-2,3-5
+Peas,Pisum sativum,"Carrots, Radish","Nitrogen fixation","Cool-season crop",21,3,1.0,1-1.5,5-7
+Garlic,Allium sativum,"Tomatoes, Roses","Antifungal properties","Repels deer",12,6,1.0,0.5-1,10-14
+Lettuce,Lactuca sativa,"Carrots, Radish","Shallow roots","Quick harvest",12,9,0.3,1.5-2,3-5
+Spinach,Spinacia oleracea,"Strawberries, Peas","Cold-tolerant","Nutrient-dense",15,5,0.5,1.5-2,3-5
+Cucumber,Cucumis sativus,"Beans, Dill","Vertical space saver","High water needs",36,24,0.5,1.5-2,3-5
+Broccoli,Brassica oleracea,"Onions, Beets","Heavy feeder","Harvest side shoots",21,18,0.5,1-1.5,5-7
+Bell Pepper,Capsicum annuum,"Basil, Onions","Warm-season crop","Mulch for moisture",21,18,0.3,1-1.5,5-7
+Cauliflower,Brassica oleracea,"Celery, Beets","Nutrient-demanding","Blanch heads",21,18,0.5,1-1.5,5-7
+Eggplant,Solanum melongena,"Marigold, Peppers","Heat-loving","Stake for support",30,18,0.3,1.5-2,3-5
+Chard,Beta vulgaris,"Onions, Beans","Cut-and-come-again","Colorful stems",15,9,0.5,1-1.5,5-7
+Fennel,Foeniculum vulgare,"Dill, Chamomile","Allelopathic (plant alone)","Attracts beneficials",18,12,0.3,0.5-1,10-14
+Watermelon,Citrullus lanatus,"Corn, Nasturtium","Deep roots aerate soil","Heat-tolerant",72,36,1.0,1.5-2,3-5
+Pumpkin,Cucurbita pepo,"Corn, Radish","Weed suppression","Long vines",72,48,1.0,1.5-2,3-5
+Strawberry,Fragaria × ananassa,"Borage, Spinach","Ground cover","Everbearing varieties",18,12,0.3,1-1.5,3-5
+Raspberry,Rubus idaeus,"Garlic, Tansy","Perennial","Prune old canes",48,24,1.0,1-1.5,5-7
+Blueberry,Vaccinium corymbosum,"Lupine, Thyme","Acid-loving (pH 4.5-5.5)","Fall color",48,36,1.0,1.5-2,3-5
+Mint,Mentha spp.,"Cabbage, Tomatoes","Invasive (use pots)","Culinary/tea",24,18,0.3,1-1.5,5-7
+Parsley,Petroselinum crispum,"Tomatoes, Asparagus","Biennial","Butterfly host",12,6,0.3,1-1.5,5-7
+Sage,Salvia officinalis,"Carrots, Cabbage","Drought-resistant","Gray foliage",24,18,0.3,0.5-1,10-14
+Thyme,Thymus vulgaris,"Eggplant, Strawberries","Low-growing","Culinary/ornamental",12,6,0.3,0.5-1,10-14
+Oregano,Origanum vulgare,"Peppers, Cucumbers","Mediterranean herb","Pizza staple",18,12,0.3,0.5-1,7-10
+Rosemary,Salvia rosmarinus,"Beans, Carrots","Drought-tolerant","Woody perennial",24,18,0.3,0.5-1,10-14
+Cilantro,Coriandrum sativum,"Spinach, Peas","Self-seeds","Culinary leaves/seeds",12,6,0.3,1-1.5,5-7
+Dill,Anethum graveolens,"Lettuce, Cucumbers","Host for swallowtails","Fern-like foliage",18,12,0.3,1-1.5,5-7
+Okra,Abelmoschus esculentus,"Peppers, Basil","Heat-loving","Edible pods",24,12,0.5,1-1.5,5-7
+Sweet Potato,Ipomoea batatas,"Beans, Marigold","Drought-tolerant","Vining ground cover",36,12,4.0,1-1.5,7-10
+Ginger,Zingiber officinale,"Turmeric, Lemongrass","Tropical","Rhizome propagation",24,12,2.0,1.5-2,3-5
+Turmeric,Curcuma longa,"Ginger, Garlic","Anti-inflammatory","Golden rhizomes",24,12,2.0,1.5-2,3-5
+Lemongrass,Cymbopogon citratus,"Basil, Mint","Repels mosquitoes","Citrus flavor",24,18,0.3,1-1.5,5-7
+Basil,Ocimum basilicum,"Tomatoes, Peppers","Aromatic oils","Many varieties",18,12,0.3,1-1.5,5-7
+Kale,Brassica oleracea,"Onions, Beets","Cold-hardy","Nutrient powerhouse",18,12,0.5,1-1.5,5-7
+Brussels Sprout,Brassica oleracea,"Dill, Sage","Heavy feeder","Stalk harvest",24,18,0.5,1-1.5,5-7
+Arugula,Eruca vesicaria,"Beets, Spinach","Fast-growing","Peppery flavor",12,6,0.3,1-1.5,5-7
+Zucchini,Cucurbita pepo,"Corn, Nasturtium, Beans","Large leaves suppress weeds","Fast-growing",36,24,1.0,1.5-2,3-5
+Cantaloupe,Cucumis melo,"Corn, Radish, Marigold","Vines shade soil","Sweet fruit",60,36,1.0,1.5-2,3-5
+Blackberry,Rubus fruticosus,"Comfrey, Chives","Perennial bramble","Thorny varieties need trellising",48,24,1.0,1-1.5,5-7
+Goji Berry,Lycium barbarum,"Garlic, Chives","Drought-tolerant","Superfruit",48,36,1.0,1-1.5,7-10
+Honeyberry,Lonicera caerulea,"Comfrey, Clover","Early fruiting","Cold-hardy",48,36,1.0,1-1.5,5-7
+Currant,Ribes spp.,"Chives, Tansy","Shade-tolerant","Bird-friendly",48,36,1.0,1-1.5,5-7
+Gooseberry,Ribes uva-crispa,"Comfrey, Chives","Thorny pest barrier","Tart berries",48,36,1.0,1-1.5,5-7
+Elderberry,Sambucus spp.,"Comfrey, Yarrow","Wet soil tolerant","Medicinal flowers",72,48,1.0,1.5-2,5-7
+Asparagus,Asparagus officinalis,"Tomatoes, Parsley","Perennial (20+ years)","Harvest 3rd year",48,18,1.0,1-1.5,5-7
+Rhubarb,Rheum rhabarbarum,"Strawberries, Beans","Heavy feeder","Toxic leaves",48,36,1.0,1.5-2,5-7
+Artichoke,Cynara scolymus,"Cabbage, Sunflowers","Dramatic foliage","Perennial in warm zones",48,36,0.5,1.5-2,5-7
+Cardoon,Cynara cardunculus,"Artichokes, Sunflowers","Ornamental edible","Thistle family",48,36,0.5,1-1.5,5-7
+Horseradish,Armoracia rusticana,"Potatoes, Fruit Trees","Deep roots","Invasive (contain)",24,18,1.0,1-1.5,7-10
+Wasabi,Eutrema japonicum,"Ferns, Mint","Cool, shady conditions","Difficult to grow",12,8,0.3,1.5-2,3-5
+Sunchoke,Helianthus tuberosus,"Corn, Beans","Tall screening plant","Edible tubers",36,24,2.0,1-1.5,5-7
+Yacon,Smallanthus sonchifolius,"Beans, Marigold","Drought-tolerant","Sweet tubers",36,24,2.0,1-1.5,5-7
+Groundnut,Apios americana,"Corn, Sunflowers","Nitrogen-fixing vine","Edible tubers",36,24,1.0,1-1.5,5-7
+Tigernut,Cyperus esculentus,"Corn, Beans","Tolerates poor soil","Nutty tubers",24,12,1.0,1-1.5,5-7
+Quinoa,Chenopodium quinoa,"Beans, Cabbage","Drought-tolerant","Complete protein",24,12,0.5,1-1.5,7-10
+Amaranth,Amaranthus spp.,"Corn, Onions","Heat-loving","Edible leaves/seeds",18,12,0.3,1-1.5,5-7
+Buckwheat,Fagopyrum esculentum,"Brassicas, Fruit Trees","Fast cover crop","Attracts pollinators",18,4,0.5,1-1.5,5-7
+Teff,Eragrostis tef,"Quinoa, Amaranth","Drought-resistant","Tiny grains",12,4,0.3,1-1.5,7-10
+Millet,Panicum miliaceum,"Corn, Beans","Bird food","Ancient grain",24,6,0.5,1-1.5,7-10
+Sorghum,Sorghum bicolor,"Beans, Squash","Heat-tolerant","Gluten-free",36,12,1.0,1-1.5,7-10
+Triticale,× Triticosecale,"Clover, Vetch","Winter cover crop","Wheat-rye hybrid",12,4,1.0,1-1.5,7-10
+Spelt,Triticum spelta,"Clover, Beans","Ancient wheat","Nutty flavor",12,4,1.0,1-1.5,7-10
+Kamut,Khorasan wheat,"Clover, Peas","Heirloom grain","High-protein",12,4,1.0,1-1.5,7-10
+Einkorn,Triticum monococcum,"Clover, Lentils","Ancient wheat","Low gluten",12,4,1.0,1-1.5,7-10
+Chickpea,Cicer arietinum,"Cucumbers, Celery","Nitrogen-fixing","Drought-tolerant",24,6,1.0,1-1.5,7-10
+Lentil,Lens culinaris,"Carrots, Cucumbers","Soil-improving","Quick-growing",18,2,1.0,1-1.5,5-7
+Fava Bean,Vicia faba,"Corn, Potatoes","Winter-hardy","Nutty flavor",24,8,1.0,1-1.5,5-7
+Lupin,Lupinus spp.,"Brassicas, Fruit Trees","Nitrogen-fixing","Ornamental",24,12,0.5,1-1.5,7-10
+Cowpea,Vigna unguiculata,"Corn, Squash","Heat-loving","Southern staple",24,4,1.0,1-1.5,5-7
+Pigeon Pea,Cajanus cajan,"Corn, Citrus","Drought-resistant","Tropical perennial",36,24,1.0,1-1.5,7-10
+Yardlong Bean,Vigna unguiculata,"Corn, Okra","Heat-tolerant","Asian variety",24,4,1.0,1-1.5,5-7
+Winged Bean,Psophocarpus tetragonolobus,"Corn, Sweet Potato","Edible all parts","Tropical",24,6,1.0,1.5-2,3-5
+Tepary Bean,Phaseolus acutifolius,"Corn, Squash","Extreme drought-tolerant","Native American",24,4,1.0,1-1.5,7-10
+Rice,Oryza sativa,"Duckweed, Azolla","Wetland crop","Staple grain",12,4,0.5,2-3,1-3
+Wild Rice,Zizania spp.,"Cattails, Duckweed","Aquatic","Native American",12,4,0.5,2-3,1-3
+Lotus,Nelumbo nucifera,"Water lilies","Sacred flower","Edible rhizomes",48,24,4.0,2-3,1-3
+Water Chestnut,Eleocharis dulcis,"Rice, Taro","Aquatic","Crunchy texture",24,12,1.0,2-3,1-3
+Taro,Colocasia esculenta,"Ginger, Lemongrass","Tropical staple","Poisonous raw",36,24,2.0,1.5-2,3-5
+Malanga,Xanthosoma sagittifolium,"Taro, Ginger","Tropical","Starchy tubers",36,24,2.0,1.5-2,3-5
+Cassava,Manihot esculenta,"Beans, Peppers","Drought-resistant","Toxic raw",48,36,4.0,1-1.5,7-10
+Breadfruit,Artocarpus altilis,"Banana, Taro","Tropical staple","Starchy fruit",240,240,4.0,1.5-2,3-5
+Jackfruit,Artocarpus heterophyllus,"Pepper, Ginger","World's largest fruit","Meaty texture",240,240,4.0,1.5-2,3-5
+Durian,Durio spp.,"Rambutan, Banana","Tropical","Pungent aroma",240,240,4.0,1.5-2,3-5
+Mangosteen,Garcinia mangostana,"Banana, Ginger","Tropical","Queen of fruits",240,240,4.0,1.5-2,3-5
+Rambutan,Nephelium lappaceum,"Durian, Banana","Tropical","Hairy fruit",240,240,4.0,1.5-2,3-5
+Longan,Dimocarpus longan,"Lychee, Banana","Tropical","Dragon eye fruit",240,240,4.0,1.5-2,3-5
+Lychee,Litchi chinensis,"Longan, Banana","Tropical","Fragrant fruit",240,240,4.0,1.5-2,3-5
+Carambola,Averrhoa carambola,"Banana, Ginger","Tropical","Star fruit",180,180,4.0,1.5-2,3-5
+Guava,Psidium guajava,"Banana, Pineapple","Tropical","Vitamin C rich",180,180,4.0,1.5-2,3-5
+Feijoa,Acca sellowiana,"Guava, Citrus","Subtropical","Pineapple flavor",180,180,4.0,1.5-2,3-5
+Pomegranate,Punica granatum,"Fig, Olive","Drought-tolerant","Juicy arils",180,180,4.0,1-1.5,7-10
+Persimmon,Diospyros kaki,"Fig, Mulberry","Fall fruit","Astringent varieties",240,240,4.0,1-1.5,7-10
+Loquat,Eriobotrya japonica,"Citrus, Fig","Evergreen","Early spring fruit",180,180,4.0,1-1.5,7-10
+Jujube,Ziziphus jujuba,"Fig, Pomegranate","Drought-hardy","Date-like fruit",180,180,4.0,1-1.5,7-10
+Mulberry,Morus spp.,"Grapes, Figs","Bird attractant","Fast-growing",240,240,4.0,1-1.5,7-10
+Pawpaw,Asimina triloba,"Ginseng, Mayapple","Native fruit","Tropical flavor",180,180,4.0,1.5-2,5-7
+Maypop,Passiflora incarnata,"Blackberry, Raspberry","Native passionfruit","Medicinal",180,180,4.0,1.5-2,5-7
+Kiwi,Actinidia spp.,"Grapes, Hops","Vining","Fuzzy/hardy types",120,120,4.0,1.5-2,5-7
+Grapes,Vitis spp.,"Hops, Kiwi","Arbor needed","Wine/table varieties",120,120,4.0,1-1.5,7-10
+Hops,Humulus lupulus,"Grapes, Comfrey","Fast-growing vine","Brewing",120,120,4.0,1.5-2,5-7
+Olive,Olea europaea,"Lavender, Rosemary","Drought-tolerant","Long-lived",240,240,4.0,1-1.5,14-21
+Date,Phoenix dactylifera,"Fig, Pomegranate","Desert-adapted","Sweet fruit",240,240,4.0,1-1.5,14-21
+Fig,Ficus carica,"Comfrey, Borage","Drought-resistant","Two crops/year",180,180,4.0,1-1.5,7-10
+Pineapple,Ananas comosus,"Guava, Banana","Bromeliad","Tropical",36,36,4.0,1.5-2,5-7
+Banana,Musa spp.,"Sweet Potato, Ginger","Tropical","Clumping",96,96,4.0,1.5-2,3-5
+Plantain,Musa × paradisiaca,"Banana, Taro","Cooking banana","Starchy",96,96,4.0,1.5-2,3-5
+Papaya,Carica papaya,"Banana, Pineapple","Fast-growing","Tropical",96,96,4.0,1.5-2,3-5
+Mango,Mangifera indica,"Guava, Banana","Tropical","National fruit",240,240,4.0,1.5-2,3-5
+Avocado,Persea americana,"Comfrey, Banana","Subtropical","Healthy fats",240,240,4.0,1.5-2,5-7
+Cashew,Anacardium occidentale,"Pepper, Pineapple","Tropical","Nut/fruit",240,240,4.0,1.5-2,5-7
+Macadamia,Macadamia integrifolia,"Avocado, Banana","Subtropical","Rich nuts",240,240,4.0,1.5-2,7-10
+Pecan,Carya illinoinensis,"Comfrey, Clover","Long-lived","Native nut",480,480,4.0,1.5-2,7-10
+Walnut,Juglans spp.,"Comfrey, Pawpaw","Allelopathic","Wood/nuts",480,480,4.0,1.5-2,7-10
+Hazelnut,Corylus spp.,"Comfrey, Berries","Shrub form","Filberts",180,180,4.0,1.5-2,7-10
+Chestnut,Castanea spp.,"Comfrey, Berries","Nutritious nuts","Blight-resistant",480,480,4.0,1.5-2,7-10
+Pistachio,Pistacia vera,"Almond, Olive","Drought-tolerant","Salty nuts",240,240,4.0,1-1.5,14-21
+Almond,Prunus dulcis,"Pistachio, Olive","Early bloomer","California staple",240,240,4.0,1-1.5,14-21
+Coconut,Cocos nucifera,"Banana, Taro","Tropical","Versatile",480,480,4.0,1.5-2,3-5
+Vanilla,Vanilla planifolia,"Banana, Ginger","Vining orchid","Labor-intensive",120,120,4.0,1.5-2,5-7
+Cacao,Theobroma cacao,"Banana, Ginger","Tropical understory","Chocolate",240,240,4.0,1.5-2,3-5
+Coffee,Coffea spp.,"Banana, Ginger","Understory shrub","Cherries",180,180,4.0,1.5-2,5-7
+Tea,Camellia sinensis,"Azalea, Blueberry","Acid-loving","Leaves for brewing",180,180,4.0,1.5-2,5-7

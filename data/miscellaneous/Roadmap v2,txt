@@ -1,36 +1,36 @@
-🌿 Gardening App Roadmap (2-Week Plan) 🌿
+Gardening App Roadmap (2-Week Plan)
 
 === GOALS ===
-[✅] MVP by Sunday (Weeks 1-3 Core Features)
-[⚙️] Polish & Deploy Next Week (Weeks 4-5)
+MVP by Sunday (Weeks 1-3 Core Features)
+Polish & Deploy Next Week (Weeks 4-5)
 
 === WEEK 1 (MVP) ===
-📅 Tuesday - Backend Finish
+Tuesday - Backend Finish
 - Complete APIs:
   GET /crops?zip=12345&season=summer
   GET /pests?crop=tomato
   POST /soil (pH/N/P/K storage)
   GET /weather?zip=12345 (real or mock)
 
-📅 Wednesday - JavaFX UI
+Wednesday - JavaFX UI
 - Home Screen (Plan Garden/Soil/Pest buttons)
 - Garden Planner:
   - Zip code dropdown → crop list
   - 4x4 planting grid mockup
 
-📅 Thursday - Frontend Logic
+Thursday - Frontend Logic
 - Pest Alerts screen (show pests for selected crops)
 - Link all screens to backend
 
-📅 Friday - Visualizations
+Friday - Visualizations
 - Soil Health BarChart (mock data OK)
 - Weather alert label ("Frost warning!")
 
-📅 Saturday - Bug Fixes
+Saturday - Bug Fixes
 - Test full user flow:
   Plan → Plant → Check Pests → View Soil
 
-📅 Sunday - MVP DONE
+Sunday - MVP DONE
 [Core Features Working]
 - Crop planning
 - Pest alerts
@@ -38,23 +38,23 @@
 - Weather display
 
 === WEEK 2 (Polish) ===
-🔧 Monday - Testing
+Monday - Testing
 - Fix API edge cases
 - Validate crop/pest data
 
-🎨 Tuesday - UI Polish
+Tuesday - UI Polish
 - Add CSS styling
 - Mascot animation (if time)
 
-🚀 Wednesday - Deployment
+Wednesday - Deployment
 - Backend: Deploy to Railway
 - Frontend: Package as .jar
 
-📄 Thursday - Extras
+Thursday - Extras
 - Gantt chart for crop rotation
 - PDF export (Apache PDFBox)
 
-📹 Friday - Documentation
+Friday - Documentation
 - Record demo video
 - Write setup guide
 
@@ -72,11 +72,10 @@
 
 === DELIVERABLES ===
 By Sunday:
-✅ Functional MVP with:
+Functional MVP with:
 - Crop planner
 - Pest alerts
 - Soil/weather
 
 Next Week:
-🚀 Deployed app + extras
-📹 Demo video/docs
+Demo video/docs

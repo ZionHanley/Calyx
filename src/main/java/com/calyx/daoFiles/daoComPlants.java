@@ -1,5 +1,5 @@
 package com.calyx.daoFiles;
 
-public class daoSoilHealth {
+public class daoComPlants {
 
 }
