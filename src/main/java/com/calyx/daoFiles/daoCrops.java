@@ -1,6 +1,6 @@
-package com.calyx.daoFiles;
+package com.calyx.daofiles;
 
-import com.calyx.dataModels.modelCrops;
+import com.calyx.datamodels.modelCrops;
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;

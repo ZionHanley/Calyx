@@ -1,4 +1,4 @@
-package com.calyx.dataModels;
+package com.calyx.datamodels;
 
 public class modelPests {
     String Plant;

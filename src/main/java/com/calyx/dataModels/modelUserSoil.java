@@ -1,4 +1,4 @@
-package com.calyx.dataModels;
+package com.calyx.datamodels;
 
 import java.io.File;
 import java.io.FileWriter;

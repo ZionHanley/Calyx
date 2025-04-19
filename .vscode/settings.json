@@ -1,6 +1,6 @@
 {
     "java.search.scope": "all",
     "java.project.referencedLibraries": [
-        "lib/**/*.jar"
-    ]
+    "lib/json-simple-1.1.1.jar"
+]
 }

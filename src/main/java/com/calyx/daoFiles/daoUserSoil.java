@@ -1,4 +1,4 @@
-package com.calyx.daoFiles;
+package com.calyx.daofiles;
 
 public class daoUserSoil {
 
