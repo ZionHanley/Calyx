@@ -21,7 +21,7 @@ public class modelUserSoil {
     
     public modelUserSoil(String PH, String N, String P, String K) {
         this.PH = PH;
-        this.NPK = N + " " + P + " " + K;
+        this.NPK = N + "-" + P + "-" + K;
     }
 
     public void checkExists() {
