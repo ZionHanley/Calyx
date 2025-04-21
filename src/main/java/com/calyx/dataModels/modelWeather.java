@@ -16,60 +16,55 @@ import org.json.simple.parser.JSONParser;
 import org.json.simple.parser.ParseException;
 
 public class modelWeather {
-
-private String Key = "e9a43c91e1aaddc1ad19e6c067696789";
-
     private static final HttpClient httpClient = HttpClient.newBuilder()
             .version(HttpClient.Version.HTTP_2)
             .connectTimeout(Duration.ofSeconds(10))
             .build();
+    
+    // Add your OpenWeatherMap API key here
+    private static final String API_KEY = System.getenv("OPENWEATHER_API_KEY");
+    private static final String BASE_URL = "https://api.openweathermap.org/data/2.5/weather";
 
-    private static JSONObject getLocationData(String city) throws IOException, ParseException, URISyntaxException, InterruptedException {
-        String urlString = "https://geocoding-api.open-meteo.com/v1/search?name=" + city + "&count=1&language=en&format=json";
-        
-        String jsonResponse = fetchApiResponse(urlString);
-        if (jsonResponse == null) {
-            throw new IOException("Failed to fetch location data");
-        }
-
-        JSONParser parser = new JSONParser();
-        JSONObject resultsJsonObj = (JSONObject) parser.parse(jsonResponse);
-        JSONArray locationData = (JSONArray) resultsJsonObj.get("results");
-        
-        if (locationData == null || locationData.isEmpty()) {
-            throw new IOException("No location data found");
-        }
-        
-        return (JSONObject) locationData.get(0);
-    }
-
-    public static void displayWeatherData(double latitude, double longitude) {
+    public static void displayWeatherByZipCode(String zipCode, String countryCode) {
         try {
-            String url = "https://api.open-meteo.com/v1/forecast?latitude=" + latitude +
-                    "&longitude=" + longitude + "&current=temperature_2m,relative_humidity_2m,wind_speed_10m";
+            // Build the API URL with zip code and country code
+            String urlString = String.format("%s?zip=%s,%s&appid=%s&units=metric", 
+                    BASE_URL, zipCode, countryCode, API_KEY);
             
-            String jsonResponse = fetchApiResponse(url);
+            // Fetch the weather data
+            String jsonResponse = fetchApiResponse(urlString);
             if (jsonResponse == null) {
                 System.out.println("Error: Could not connect to API");
                 return;
             }
 
+            // Parse the JSON response
             JSONParser parser = new JSONParser();
             JSONObject jsonObject = (JSONObject) parser.parse(jsonResponse);
-            JSONObject currentWeatherJson = (JSONObject) jsonObject.get("current");
-
-            String time = (String) currentWeatherJson.get("time");
-            double temperature = ((Number) currentWeatherJson.get("temperature_2m")).doubleValue();
-            long relativeHumidity = (long) currentWeatherJson.get("relative_humidity_2m");
-            double windSpeed = ((Number) currentWeatherJson.get("wind_speed_10m")).doubleValue();
-
-            System.out.println("Current Time: " + time);
-            System.out.println("Current Temperature (C): " + temperature);
-            System.out.println("Relative Humidity: " + relativeHumidity + "%");
-            System.out.println("Wind Speed: " + windSpeed + " km/h");
             
-        } catch (Exception e) {
-            Logger.getLogger(ModelWeather.class.getName()).log(Level.SEVERE, "Error fetching weather data", e);
+            // Extract main weather data
+            JSONObject main = (JSONObject) jsonObject.get("main");
+            JSONObject wind = (JSONObject) jsonObject.get("wind");
+            JSONArray weatherArray = (JSONArray) jsonObject.get("weather");
+            JSONObject weather = (JSONObject) weatherArray.get(0);
+
+            // Extract and display the weather information
+            double temperature = ((Number) main.get("temp")).doubleValue();
+            double feelsLike = ((Number) main.get("feels_like")).doubleValue();
+            long humidity = (long) main.get("humidity");
+            double windSpeed = ((Number) wind.get("speed")).doubleValue();
+            String description = (String) weather.get("description");
+            String cityName = (String) jsonObject.get("name");
+
+            System.out.println("\nWeather in " + cityName + ":");
+            System.out.println("Temperature: " + temperature + "°C");
+            System.out.println("Feels like: " + feelsLike + "°C");
+            System.out.println("Humidity: " + humidity + "%");
+            System.out.println("Wind Speed: " + windSpeed + " m/s");
+            System.out.println("Conditions: " + description);
+            
+        } catch (IOException | InterruptedException | URISyntaxException | ParseException e) {
+            Logger.getLogger(modelWeather.class.getName()).log(Level.SEVERE, "Error fetching weather data", e);
         }
     }
 
