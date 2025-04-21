@@ -1,3 +1,5 @@
+package com.calyx.datamodels;
+
 import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
 import org.json.simple.parser.JSONParser;
@@ -8,38 +10,31 @@ import java.util.Scanner;
 
 public class modelWeather {
 
-    private static JSONObject getLocationData(String city){
+    private static JSONObject getLocationData(String city) throws IOException, org.json.simple.parser.ParseException {
         city = city.replaceAll(" ", "+");
 
         String urlString = "https://geocoding-api.open-meteo.com/v1/search?name=" +
                 city + "&count=1&language=en&format=json";
 
-        try{
-            // 1. Fetch the API response based on API Link
-            HttpURLConnection apiConnection = fetchApiResponse(urlString);
+        // 1. Fetch the API response based on API Link
+        HttpURLConnection apiConnection = fetchApiResponse(urlString);
 
-            // check for response status
-            // 200 - means that the connection was a success
-            if(apiConnection.getResponseCode() != 200){
-                System.out.println("Error: Could not connect to API");
-                return null;
-            }
-
-            // 2. Read the response and convert store String type
-            String jsonResponse = readApiResponse(apiConnection);
-
-            // 3. Parse the string into a JSON Object
-            JSONParser parser = new JSONParser();
-            JSONObject resultsJsonObj = (JSONObject) parser.parse(jsonResponse);
-
-            // 4. Retrieve Location Data
-            JSONArray locationData = (JSONArray) resultsJsonObj.get("results");
-            return (JSONObject) locationData.get(0);
-
-        }catch(Exception e){
-            e.printStackTrace();
+        // check for response status
+        if (apiConnection.getResponseCode() != 200) {
+            System.out.println("Error: Could not connect to API");
+            return null;
         }
-        return null;
+
+        // 2. Read the response and convert store String type
+        String jsonResponse = readApiResponse(apiConnection);
+
+        // 3. Parse the string into a JSON Object
+        JSONParser parser = new JSONParser();
+        JSONObject resultsJsonObj = (JSONObject) parser.parse(jsonResponse);
+
+        // 4. Retrieve Location Data
+        JSONArray locationData = (JSONArray) resultsJsonObj.get("results");
+        return (JSONObject) locationData.get(0);
     }
 
     private static void displayWeatherData(double latitude, double longitude){
@@ -127,5 +122,14 @@ public class modelWeather {
 
         // could not make connection
         return null;
+    }
+}
+
+class TestJsonSimple {
+    public static void main(String[] args) {
+        JSONObject jsonObject = new JSONObject();
+        jsonObject.put("name", "John");
+        jsonObject.put("age", 30);
+        System.out.println(jsonObject.toJSONString());
     }
 }
