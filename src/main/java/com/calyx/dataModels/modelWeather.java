@@ -1,135 +1,88 @@
 package com.calyx.datamodels;
 
+import java.io.IOException;
+import java.net.URI;
+import java.net.URISyntaxException;
+import java.net.http.HttpClient;
+import java.net.http.HttpRequest;
+import java.net.http.HttpResponse;
+import java.time.Duration;
+import java.util.logging.Level;
+import java.util.logging.Logger;
+
 import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
 import org.json.simple.parser.JSONParser;
-import java.io.IOException;
-import java.net.HttpURLConnection;
-import java.net.URL;
-import java.util.Scanner;
+import org.json.simple.parser.ParseException;
 
 public class modelWeather {
+    private static final HttpClient httpClient = HttpClient.newBuilder()
+            .version(HttpClient.Version.HTTP_2)
+            .connectTimeout(Duration.ofSeconds(10))
+            .build();
 
-    private static JSONObject getLocationData(String city) throws IOException, org.json.simple.parser.ParseException {
-        city = city.replaceAll(" ", "+");
-
-        String urlString = "https://geocoding-api.open-meteo.com/v1/search?name=" +
-                city + "&count=1&language=en&format=json";
-
-        // 1. Fetch the API response based on API Link
-        HttpURLConnection apiConnection = fetchApiResponse(urlString);
-
-        // check for response status
-        if (apiConnection.getResponseCode() != 200) {
-            System.out.println("Error: Could not connect to API");
-            return null;
+    private static JSONObject getLocationData(String city) throws IOException, ParseException, URISyntaxException, InterruptedException {
+        String urlString = "https://geocoding-api.open-meteo.com/v1/search?name=" + city + "&count=1&language=en&format=json";
+        
+        String jsonResponse = fetchApiResponse(urlString);
+        if (jsonResponse == null) {
+            throw new IOException("Failed to fetch location data");
         }
 
-        // 2. Read the response and convert store String type
-        String jsonResponse = readApiResponse(apiConnection);
-
-        // 3. Parse the string into a JSON Object
         JSONParser parser = new JSONParser();
         JSONObject resultsJsonObj = (JSONObject) parser.parse(jsonResponse);
-
-        // 4. Retrieve Location Data
         JSONArray locationData = (JSONArray) resultsJsonObj.get("results");
+        
+        if (locationData == null || locationData.isEmpty()) {
+            throw new IOException("No location data found");
+        }
+        
         return (JSONObject) locationData.get(0);
     }
 
-    private static void displayWeatherData(double latitude, double longitude){
-        try{
-            // 1. Fetch the API response based on API Link
+    public static void displayWeatherData(double latitude, double longitude) {
+        try {
             String url = "https://api.open-meteo.com/v1/forecast?latitude=" + latitude +
                     "&longitude=" + longitude + "&current=temperature_2m,relative_humidity_2m,wind_speed_10m";
-            HttpURLConnection apiConnection = fetchApiResponse(url);
-
-            // check for response status
-            // 200 - means that the connection was a success
-            if(apiConnection.getResponseCode() != 200){
+            
+            String jsonResponse = fetchApiResponse(url);
+            if (jsonResponse == null) {
                 System.out.println("Error: Could not connect to API");
                 return;
             }
 
-            // 2. Read the response and convert store String type
-            String jsonResponse = readApiResponse(apiConnection);
-
-            // 3. Parse the string into a JSON Object
             JSONParser parser = new JSONParser();
             JSONObject jsonObject = (JSONObject) parser.parse(jsonResponse);
             JSONObject currentWeatherJson = (JSONObject) jsonObject.get("current");
-//            System.out.println(currentWeatherJson.toJSONString());
 
-            // 4. Store the data into their corresponding data type
             String time = (String) currentWeatherJson.get("time");
-            System.out.println("Current Time: " + time);
-
-            double temperature = (double) currentWeatherJson.get("temperature_2m");
-            System.out.println("Current Temperature (C): " + temperature);
-
+            double temperature = ((Number) currentWeatherJson.get("temperature_2m")).doubleValue();
             long relativeHumidity = (long) currentWeatherJson.get("relative_humidity_2m");
-            System.out.println("Relative Humidity: " + relativeHumidity);
+            double windSpeed = ((Number) currentWeatherJson.get("wind_speed_10m")).doubleValue();
 
-            double windSpeed = (double) currentWeatherJson.get("wind_speed_10m");
-            System.out.println("Weather Description: " + windSpeed);
-        }catch(Exception e){
-            e.printStackTrace();
+            System.out.println("Current Time: " + time);
+            System.out.println("Current Temperature (C): " + temperature);
+            System.out.println("Relative Humidity: " + relativeHumidity + "%");
+            System.out.println("Wind Speed: " + windSpeed + " km/h");
+            
+        } catch (Exception e) {
+            Logger.getLogger(ModelWeather.class.getName()).log(Level.SEVERE, "Error fetching weather data", e);
         }
     }
 
-    private static String readApiResponse(HttpURLConnection apiConnection) {
-        try {
-            // Create a StringBuilder to store the resulting JSON data
-            StringBuilder resultJson = new StringBuilder();
+    private static String fetchApiResponse(String urlString) throws URISyntaxException, IOException, InterruptedException {
+        HttpRequest request = HttpRequest.newBuilder()
+                .uri(new URI(urlString))
+                .timeout(Duration.ofSeconds(10))
+                .GET()
+                .build();
 
-            // Create a Scanner to read from the InputStream of the HttpURLConnection
-            Scanner scanner = new Scanner(apiConnection.getInputStream());
-
-            // Loop through each line in the response and append it to the StringBuilder
-            while (scanner.hasNext()) {
-                // Read and append the current line to the StringBuilder
-                resultJson.append(scanner.nextLine());
-            }
-
-            // Close the Scanner to release resources associated with it
-            scanner.close();
-
-            // Return the JSON data as a String
-            return resultJson.toString();
-
-        } catch (IOException e) {
-            // Print the exception details in case of an IOException
-            e.printStackTrace();
+        HttpResponse<String> response = httpClient.send(request, HttpResponse.BodyHandlers.ofString());
+        
+        if (response.statusCode() != 200) {
+            throw new IOException("API request failed with status code: " + response.statusCode());
         }
-
-        // Return null if there was an issue reading the response
-        return null;
-    }
-
-    private static HttpURLConnection fetchApiResponse(String urlString){
-        try{
-            // attempt to create connection
-            URL url = new URL(urlString);
-            HttpURLConnection conn = (HttpURLConnection) url.openConnection();
-
-            // set request method to get
-            conn.setRequestMethod("GET");
-
-            return conn;
-        }catch(IOException e){
-            e.printStackTrace();
-        }
-
-        // could not make connection
-        return null;
-    }
-}
-
-class TestJsonSimple {
-    public static void main(String[] args) {
-        JSONObject jsonObject = new JSONObject();
-        jsonObject.put("name", "John");
-        jsonObject.put("age", 30);
-        System.out.println(jsonObject.toJSONString());
+        
+        return response.body();
     }
 }
